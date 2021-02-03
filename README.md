@@ -1,2 +1,1 @@
-# courses
-Courses
+# Courses Taught by Wenliang Du
