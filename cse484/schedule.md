@@ -1,5 +1,6 @@
 # Weekly Schedule
 
+[Home](./index.md) &nbsp;&nbsp;&nbsp; [Syllabus](./syllabus.md)  &nbsp;&nbsp;&nbsp; [Labs](./labs.md) &nbsp;&nbsp;&nbsp; [Schedule](./schedule.md)
 
 | Week         | Topics | Readings  |  Lab |  
 | ---          | ---    | --- | --- |

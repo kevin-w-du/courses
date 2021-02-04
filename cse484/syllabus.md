@@ -1,6 +1,6 @@
 # Syllabus: CSE 484
 
-[Home](./index.md) &nbsp;&nbsp;&nbsp; [Syllabus](./syllabus.md)  &nbsp;&nbsp;&nbsp; [Labs](./labs.md)
+[Home](./index.md) &nbsp;&nbsp;&nbsp; [Syllabus](./syllabus.md)  &nbsp;&nbsp;&nbsp; [Labs](./labs.md) &nbsp;&nbsp;&nbsp; [Schedule](./schedule.md)
 
 ## Learning Objectives
 
