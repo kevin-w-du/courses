@@ -1,5 +1,7 @@
 # Labs
 
+[Home](./index.md) &nbsp;&nbsp;&nbsp; [Syllabus](./syllabus.md)  &nbsp;&nbsp;&nbsp; [Labs](./labs.md)
+
 ## Lab Environment
 
 We will use the SEED labs 2.0 for this class. Please follow the instructions

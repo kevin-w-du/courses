@@ -1,5 +1,6 @@
 # Introduction to Computer and Network Security
 
+[Home](./index.md) &nbsp;&nbsp;&nbsp; [Syllabus](./syllabus.md)  &nbsp;&nbsp;&nbsp; [Labs](./labs.md)
 
 ## Learning Objectives
 
@@ -11,19 +12,28 @@ students can enhance their understanding of the principles, and be able to
 apply those principles to solve real problems.
 
 
-## Lab Sessions
+## Lab Sessions 
 
 You are required to attend the mandatory lab session each week. These lab
 sessions are mandatory. You can only be excused if you have finished the
 corresponding lab or your attendance is waived by the professor or TA. 
 
 
-## Instructor's Office Hours
-  - Time:  TBA
+## Instructor
+  - Kevin Du (email: wedu@syr.edu)
+  - Office hours: 
+      - Monday:    
+      - Thursday: 
   - Location: Online
 
-## TA's Office Hours
+## Teaching Assistant
 
-  - Monday - Friday: 
+  - Weixiang Wang (email: wwang69@syr.edu)
+  - Office hours:
+      - Monday:
+      - Tuesday:
+      - Wednesday: 
+      - Thursday:
+      - Friday:
   - Location: Online 
 
