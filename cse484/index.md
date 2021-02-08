@@ -24,7 +24,7 @@ on the labs.
   - Kevin Du (email: wedu@syr.edu)
   - Office hours: 
       - Mon: 10:00 - 11:00 (morning)  
-      - Thu: 20:00 - 21:00 (night)
+      - Thu: 21:00 - 22:00 (night)
       - Or make an appointment
   - Location: Online
 
@@ -34,8 +34,8 @@ on the labs.
   - Office hours:
       - Mon: 20:00 - 21:00
       - Tue: 20:00 - 21:00
-      - Wed: 20:00 - 21:00
-      - Thu: 20:00 - 21:00
+      - Wed: 20:00 - 21:00 (lab session)
+      - Thu: 20:00 - 21:00 (lab session)
       - Fri: 20:00 - 21:00
   - Location: Online 
 
