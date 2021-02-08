@@ -14,26 +14,28 @@ apply those principles to solve real problems.
 
 ## Lab Sessions 
 
-You are required to attend the mandatory lab session each week. These lab
-sessions are mandatory. You can only be excused if you have finished the
-corresponding lab or your attendance is waived by the professor or TA. 
+The TA will hold two lab sessions (identical) each week, 
+we strongly recommend you to attend one of them. 
+The goal of the lab session is to help you work 
+on the labs. 
 
 
 ## Instructor
   - Kevin Du (email: wedu@syr.edu)
   - Office hours: 
-      - Monday:    
-      - Thursday: 
+      - Mon: 10:00 - 11:00 (morning)  
+      - Thu: 20:00 - 21:00 (night)
+      - Or make an appointment
   - Location: Online
 
 ## Teaching Assistant
 
   - Weixiang Wang (email: wwang69@syr.edu)
   - Office hours:
-      - Monday:
-      - Tuesday:
-      - Wednesday: 
-      - Thursday:
-      - Friday:
+      - Mon: 20:00 - 21:00
+      - Tue: 20:00 - 21:00
+      - Wed: 20:00 - 21:00
+      - Thu: 20:00 - 21:00
+      - Fri: 20:00 - 21:00
   - Location: Online 
 

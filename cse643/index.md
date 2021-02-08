@@ -18,17 +18,18 @@ apply those principles to solve real problems.
 ## Instructor
   - Kevin Du (email: wedu@syr.edu)
   - Office hours: 
-      - Monday:    
-      - Thursday: 
+      - Mon: 10:00 - 11:00 (morning)    
+      - Thu: 20:00 - 21:00 (night)
+      - Or make an appointment
   - Location: Online
 
 ## Teaching Assistant
   - Jiayu Li (email: jli221@syr.edu)
   - Office hours:
-      - Monday:
-      - Tuesday:
-      - Wednesday: 
-      - Thursday:
-      - Friday:
+      - Mon: 20:00 - 21:00
+      - Tue: 20:00 - 21:00
+      - Wed: 20:00 - 21:00
+      - Thu: 20:00 - 21:00
+      - Fri: 20:00 - 21:00
   - Location: Online 
 
