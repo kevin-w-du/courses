@@ -4,10 +4,10 @@
 
 | Week         | Topics | Readings  |  Lab |  
 | ---          | ---    | --- | --- |
-|W01 (02/08 - ) | Introduction + Setuid |  Chapter 1 | Environment Setup |
+|W01 (02/08 - ) | Introduction + Security Basics| Handout | Environment Setup |
 |W02 (02/15 - ) | SetUID & Attacks | Chapters 1 & 2 | [Lab 1](./labs.md) |
 |W03 (02/22 - ) | Buffer Overflow Attack | Chapter 4| [Lab 2](./labs.md) |
-|W04 (03/01 - ) | Shellcode | Chapter 4|  |
+|W04 (03/01 - ) | Shellcode              | Chapter 4|  |
 |W05 (03/08 - ) | | | | 
 |W06 (03/15 - ) | | | | 
 |W07 (03/22 - ) | | | | 
