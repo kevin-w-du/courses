@@ -34,8 +34,8 @@ on the labs.
   - Office hours:
       - Mon: 20:00 - 21:00
       - Tue: 20:00 - 21:00
-      - Wed: 20:00 - 21:00 (lab session)
+      - Wed: 20:00 - 21:00 
       - Thu: 20:00 - 21:00 (lab session)
-      - Fri: 20:00 - 21:00
+      - Fri: 20:00 - 21:00 (lab session)
   - Location: Online 
 

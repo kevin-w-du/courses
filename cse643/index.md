@@ -28,7 +28,7 @@ apply those principles to solve real problems.
   - Office hours:
       - Mon: 20:00 - 21:00
       - Tue: 20:00 - 21:00
-      - Wed: 20:00 - 21:00 (lab session)
+      - Wed: 20:00 - 21:00 
       - Thu: 20:00 - 21:00 (lab session)
       - Fri: 20:00 - 21:00
   - Location: Online 
