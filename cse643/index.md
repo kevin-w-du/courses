@@ -18,8 +18,8 @@ apply those principles to solve real problems.
 ## Instructor
   - Kevin Du (email: wedu@syr.edu)
   - Office hours: 
-      - Tue: 21:00 - 22:00 
-      - Thu: 21:00 - 22:00 
+      - Tue: 21:00 - 22:20 
+      - Thu: 21:00 - 22:20 
       - Or make an appointment
   - Location: Online
 
