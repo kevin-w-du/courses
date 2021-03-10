@@ -8,7 +8,7 @@
 |W02 (02/15 - ) | SetUID & Attacks | Chapters 1 & 2 | [Lab 1](./labs.md) |
 |W03 (02/22 - ) | Shellshock Attack | Chapter 3| [Lab 2](./labs.md) |
 |W04 (03/01 - ) | Buffer Overflow Attack | Chapter 4| [Lab 3](./labs.md) |
-|W05 (03/08 - ) | | | | 
+|W05 (03/08 - ) | Race Condition | Chapter 7 | [Lab 3](./labs.md) |
 |W06 (03/15 - ) | | | | 
 |W07 (03/22 - ) | | | | 
 |W08 (03/29 - ) | | | | 

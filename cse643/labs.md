@@ -19,7 +19,7 @@ about 10 labs for the entire semester.
 | Lab 1: [Environment Variable and Set-UID Lab](https://seedsecuritylabs.org/Labs_20.04/Software/Environment_Variable_and_SetUID/)    |  02/25 12:30pm |  4  |
 | Lab 2: [Shellshock Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Software/Shellshock/)  | 03/02 12:30pm |  3  |
 | Lab 3: [Buffer Overflow Attack Lab (Server Version)](https://seedsecuritylabs.org/Labs_20.04/Software/Buffer_Overflow_Server/)  |  03/11 12:30pm |  5  |
-| more will be added                        |      |    |
+| Lab 4: [Race Condition Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Software/Race_Condition/) | 03/18 12:30pm | 4 |
 
 ## Notes
 
