@@ -9,7 +9,7 @@
 |W03 (02/22 - ) | Shellshock Attack | Chapter 3| [Lab 2](./labs.md) |
 |W04 (03/01 - ) | Buffer Overflow Attack | Chapter 4| [Lab 3](./labs.md) |
 |W05 (03/08 - ) | Race Condition | Chapter 7 | [Lab 4](./labs.md) |
-|W06 (03/15 - ) | | | | 
+|W06 (03/15 - ) | Meltdown & Spectre | Chapters 13 & 14 | [Lab 5](./labs.md) | 
 |W07 (03/22 - ) | | | | 
 |W08 (03/29 - ) | | | | 
 |W09 (04/05 - ) | | | | 
