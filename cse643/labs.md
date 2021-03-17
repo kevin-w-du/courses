@@ -20,7 +20,7 @@ about 10 labs for the entire semester.
 | Lab 2: [Shellshock Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Software/Shellshock/)  | 03/02 12:30pm |  3  |
 | Lab 3: [Buffer Overflow Attack Lab (Server Version)](https://seedsecuritylabs.org/Labs_20.04/Software/Buffer_Overflow_Server/)  |  03/11 12:30pm |  5  |
 | Lab 4: [Race Condition Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Software/Race_Condition/) | 03/18 12:30pm | 4 |
-| Lab 5: [Meltdown](https://seedsecuritylabs.org/Labs_20.04/System/Meltdown_Attack/) and [Spectre](https://seedsecuritylabs.org/Labs_20.04/System/Spectre_Attack/) Labs| 03/25 14:00pm | 4 |
+| Lab 5: [Meltdown](https://seedsecuritylabs.org/Labs_20.04/System/Meltdown_Attack/) and [Spectre](https://seedsecuritylabs.org/Labs_20.04/System/Spectre_Attack/) Labs| 03/25 12:30pm | 4 |
 | **Note on Lab 5:** This one requires Ubuntu 16.04 VM |   | |
 |  |   ||
 
