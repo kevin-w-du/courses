@@ -10,8 +10,8 @@
 |W04 (03/01 - ) | Buffer Overflow Attack | Chapter 4| [Lab 3](./labs.md) |
 |W05 (03/08 - ) | Race Condition | Chapter 7 | [Lab 4](./labs.md) |
 |W06 (03/15 - ) | Dirty COW, Meltdown, Spectre | Chapters 8, 13, 14 | [Lab 5](./labs.md) | 
-|W07 (03/22 - ) | | | | 
-|W08 (03/29 - ) | | | | 
+|W07 (03/22 - ) | Web Security | -- | -- | 
+|W08 (03/29 - ) | CSRF Attack | Chapter 10 | [Lab 6](./labs.md) | 
 |W09 (04/05 - ) | | | | 
 |W10 (04/12 - ) | | | | 
 |W11 (04/19 - ) | | | | 

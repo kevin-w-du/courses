@@ -23,6 +23,7 @@ about 10 labs for the entire semester.
 | Lab 4: [Race Condition Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Software/Race_Condition/) | 03/18 14:00pm | 4 |
 | Lab 5: [Meltdown](https://seedsecuritylabs.org/Labs_20.04/System/Meltdown_Attack/) and [Spectre](https://seedsecuritylabs.org/Labs_20.04/System/Spectre_Attack/) Labs| 03/25 14:00pm | 4 |
 | **Note on Lab 5:** This one requires Ubuntu 16.04 VM |   | |
+| Lab 6: [Cross-Site Request Forgery Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Web/Web_CSRF_Elgg/) | 04/06 14:00pm | 4 |
 |  |   ||
 
 ## Notes
