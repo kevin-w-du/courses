@@ -11,8 +11,8 @@
 |W05 (03/08 - ) | Race Condition | Chapter 7 | [Lab 4](./labs.md) |
 |W06 (03/15 - ) | Dirty COW, Meltdown, Spectre | Chapters 8, 13, 14 | [Lab 5](./labs.md) |
 |W07 (03/22 - ) | Web Security | -- | -- | 
-|W08 (03/29 - ) | CSRF Attack | Chapter 10 | [Lab 6](./labs.md) |
-|W09 (04/05 - ) | | | | 
+|W08 (03/29 - ) | CSRF & XSS Attacks | Chapters 10, 11 | [Lab 6](./labs.md) |
+|W09 (04/05 - ) | XSS & SQL Injection Attacks| Chapters 11, 12 | [Lab 7](./labs.md) |
 |W10 (04/12 - ) | | | | 
 |W11 (04/19 - ) | | | | 
 |W12 (04/26 - ) | | | | 
