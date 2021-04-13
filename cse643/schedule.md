@@ -13,7 +13,7 @@
 |W07 (03/22 - ) | Web Security | -- | -- | 
 |W08 (03/29 - ) | CSRF & XSS Attacks | Chapters 10, 11 | [Lab 6](./labs.md) |
 |W09 (04/05 - ) | XSS & SQL Injection Attacks| Chapters 11, 12 | [Lab 7](./labs.md) |
-|W10 (04/12 - ) | | | | 
+|W10 (04/12 - ) | ClickJacking | handout | [Lab 8](./labs.md) |
 |W11 (04/19 - ) | | | | 
 |W12 (04/26 - ) | | | | 
 |W13 (04/26 - ) | | | | 

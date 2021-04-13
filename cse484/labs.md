@@ -25,6 +25,7 @@ about 10 labs for the entire semester.
 | **Note on Lab 5:** This one requires Ubuntu 16.04 VM |   | |
 | Lab 6: [Cross-Site Request Forgery Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Web/Web_CSRF_Elgg/) | 04/06 14:00pm | 4 |
 | Lab 7: [Cross-Site Scripting Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Web/Web_XSS_Elgg/) | 04/13 14:00pm | 5 |
+| Lab 8: [SQL Injection Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Web/Web_SQL_Injection/) | 04/20 14:00pm | 5 |
 |  |   ||
 
 ## Notes
