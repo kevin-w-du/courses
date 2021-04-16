@@ -16,6 +16,5 @@
 |W10 (04/12 - ) | ClickJacking | handout | [Lab 8](./labs.md) |
 |W11 (04/19 - ) | Shellcode & Return-to-libc attack | Chapter 5 | [Lab 9](./labs.md)| 
 |W12 (04/26 - ) | Format string attack | Chapter 6 | [Lab 10](./labs.md)|  
-|W13 (04/26 - ) | | | | 
-|W14 (05/03 - ) | | | | 
-|W15 (05/10 - ) | | | | 
+|W13 (05/03 - ) | | | | 
+|W14 (05/10 - ) | | | | 
