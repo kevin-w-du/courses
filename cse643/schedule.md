@@ -14,8 +14,8 @@
 |W08 (03/29 - ) | CSRF & XSS Attacks | Chapters 10, 11 | [Lab 6](./labs.md) |
 |W09 (04/05 - ) | XSS & SQL Injection Attacks| Chapters 11, 12 | [Lab 7](./labs.md) |
 |W10 (04/12 - ) | ClickJacking | handout | [Lab 8](./labs.md) |
-|W11 (04/19 - ) | Shellcode & Return-to-libc attack | [Lab 9](./labs.md)| | 
-|W12 (04/26 - ) | Format string attack |[Lab 10](./labs.md)| | 
+|W11 (04/19 - ) | Shellcode & Return-to-libc attack | Chapter 5 | [Lab 9](./labs.md)| 
+|W12 (04/26 - ) | Format string attack | Chapter 6 | [Lab 10](./labs.md)|  
 |W13 (04/26 - ) | | | | 
 |W14 (05/03 - ) | | | | 
 |W15 (05/10 - ) | | | | 
