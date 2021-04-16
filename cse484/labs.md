@@ -16,16 +16,18 @@ about 10 labs for the entire semester.
 
 | Labs   | Due Date | Points |
 | ---    | ---      | ---    |
-| Lab 1: [Environment Variable and Set-UID Lab](https://seedsecuritylabs.org/Labs_20.04/Software/Environment_Variable_and_SetUID/)    |  02/25 14:00pm |  4  |
-| Lab 2: [Shellshock Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Software/Shellshock/)  | 03/02 14:00pm |  3  |
-| Lab 3: [Buffer Overflow Attack Lab (Server Version)](https://seedsecuritylabs.org/Labs_20.04/Software/Buffer_Overflow_Server/)  |  03/11 14:00pm |  5  |
+| Lab 01: [Environment Variable and Set-UID Lab](https://seedsecuritylabs.org/Labs_20.04/Software/Environment_Variable_and_SetUID/)    |  02/25 14:00pm |  4  |
+| Lab 02: [Shellshock Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Software/Shellshock/)  | 03/02 14:00pm |  3  |
+| Lab 03: [Buffer Overflow Attack Lab (Server Version)](https://seedsecuritylabs.org/Labs_20.04/Software/Buffer_Overflow_Server/)  |  03/11 14:00pm |  5  |
 | **Note on Lab 3:** Levels 2 and 4 are bonus |   | 1 each  |
-| Lab 4: [Race Condition Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Software/Race_Condition/) | 03/18 14:00pm | 4 |
-| Lab 5: [Meltdown](https://seedsecuritylabs.org/Labs_20.04/System/Meltdown_Attack/) and [Spectre](https://seedsecuritylabs.org/Labs_20.04/System/Spectre_Attack/) Labs| 03/25 14:00pm | 4 |
+| Lab 04: [Race Condition Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Software/Race_Condition/) | 03/18 14:00pm | 4 |
+| Lab 05: [Meltdown](https://seedsecuritylabs.org/Labs_20.04/System/Meltdown_Attack/) and [Spectre](https://seedsecuritylabs.org/Labs_20.04/System/Spectre_Attack/) Labs| 03/25 14:00pm | 4 |
 | **Note on Lab 5:** This one requires Ubuntu 16.04 VM |   | |
-| Lab 6: [Cross-Site Request Forgery Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Web/Web_CSRF_Elgg/) | 04/06 14:00pm | 4 |
-| Lab 7: [Cross-Site Scripting Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Web/Web_XSS_Elgg/) | 04/13 14:00pm | 5 |
-| Lab 8: [SQL Injection Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Web/Web_SQL_Injection/) | 04/22 14:00pm | 5 |
+| Lab 06: [Cross-Site Request Forgery Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Web/Web_CSRF_Elgg/) | 04/06 14:00pm | 4 |
+| Lab 07: [Cross-Site Scripting Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Web/Web_XSS_Elgg/) | 04/13 14:00pm | 5 |
+| Lab 08: [SQL Injection Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Web/Web_SQL_Injection/) | 04/22 14:00pm | 5 |
+| Lab 09: [Sniffing/Spoofing Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/Sniffing_Spoofing/) | 04/29 14:00pm  | 5 |
+| Lab 10: [TCP Attacks Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/TCP_Attacks/) | 05/06 14:00pm  | 6 |
 |  |   ||
 
 ## Notes
