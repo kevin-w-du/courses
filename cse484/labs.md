@@ -27,7 +27,7 @@ about 10 labs for the entire semester.
 | Lab 07: [Cross-Site Scripting Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Web/Web_XSS_Elgg/) | 04/13 14:00pm | 5 |
 | Lab 08: [SQL Injection Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Web/Web_SQL_Injection/) | 04/22 14:00pm | 5 |
 | Lab 09: [Sniffing/Spoofing Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/Sniffing_Spoofing/) (Set 1 only) | 04/29 14:00pm  | 5 |
-| Lab 10: [TCP Attacks Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/TCP_Attacks/) | 05/06 14:00pm  | 6 |
+| Lab 10: [TCP Attacks Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/TCP_Attacks/) | 05/07 11:59pm  | 6 |
 |  |   ||
 
 ## Notes

@@ -26,7 +26,7 @@ about 10 labs for the entire semester.
 | Lab 07: [Cross-Site Scripting Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Web/Web_XSS_Elgg/) | 04/13 12:30pm | 5 |
 | Lab 08: [SQL Injection Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Web/Web_SQL_Injection/) | 04/22 12:30pm | 5 |
 | Lab 09: [Return-to-libc Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Software/Return_to_Libc/) | 04/29 12:30pm | 6 |
-| Lab 10: [Format-String Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Software/Format_String/) | 05/11 12:30pm | 6 |
+| Lab 10: [Format-String Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Software/Format_String/) | 05/07 11:59pm | 6 |
 |  |   ||
 
 
