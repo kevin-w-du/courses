@@ -17,4 +17,4 @@
 |W11 (04/19 - ) | Network Security Basics & Sniffing/Spoofing | Chapter 15 | [Lab 9](./labs.md) | 
 |W12 (04/26 - ) | TCP attacks & Mitnick attack | Chapter 16  | [Lab 10](./labs.md) | 
 |W13 (05/03 - ) | DNS and DNS attacks | Chapter 18 | - | 
-|W14 (05/10 - ) | Review | - | - | 
+|W14 (05/10 - ) | BGP and BGP attacks | - | - | 

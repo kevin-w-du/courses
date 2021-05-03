@@ -48,7 +48,7 @@ Wenliang Du. [Computer & Internet Security: A Hands-on Approach, 2nd Edition](ht
  - Web Security 
    - Web security basics
    - Cross-Site Scripting Attack
-   - Cross-Site Request Forgerty Attack
+   - Cross-Site Request Forgery Attack
    - SQL-Injection Attack
    - Click-Jacking Attack
 
