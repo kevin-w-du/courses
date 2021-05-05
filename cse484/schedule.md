@@ -15,6 +15,6 @@
 |W09 (04/05 - ) | XSS & SQL Injection Attacks| Chapters 11, 12 | [Lab 7](./labs.md) | 
 |W10 (04/12 - ) | ClickJacking & Exam | handout | [Lab 8](./labs.md) | 
 |W11 (04/19 - ) | Network Security Basics & Sniffing/Spoofing | Chapter 15 | [Lab 9](./labs.md) | 
-|W12 (04/26 - ) | TCP attacks & Mitnick attack | Chapter 16  | [Lab 10](./labs.md) | 
-|W13 (05/03 - ) | DNS and DNS attacks | Chapter 18 | - | 
-|W14 (05/10 - ) | BGP and BGP attacks | - | - | 
+|W12 (04/26 - ) | ARP, IP and TCP | Chapter 16  | - |
+|W13 (05/03 - ) | TCP and DNS attacks | Chapters 16, 18 | [Lab 10](./labs.md) | 
+|W14 (05/10 - ) | Course review | - | - | 
