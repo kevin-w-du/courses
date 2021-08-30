@@ -15,17 +15,13 @@ apply those principles to solve real problems.
   - Tuesday/Thursday: 12:30 - 1:50
   - Location: Link Hall 105 (or online)
 
+
 ## Instructor
   - Kevin Du (email: wedu@syr.edu)
-  - Office hours: 
-      - Tue: 
-      - Thu: 
-      - Or make an appointment
-  - Location: Online
-
-## Teaching Assistant
-  - TBA (email: TBA)
   - Office hours:
-  - Location: 
+      - Tue: 21:00 - 22:00 (Zoom)
+      - Thu: 12:00 - 13:00 (In person)
+      - Or make an appointment
+  - Location: CST4-285
 
 
