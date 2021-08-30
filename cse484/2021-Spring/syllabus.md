@@ -40,7 +40,6 @@ Wenliang Du. [Computer & Internet Security: A Hands-on Approach, 2nd Edition](ht
    - Privileged programs (Set-UID programs) and vulnerabilities
    - Buffer Overflow vulnerability and attack
    - Return-to-libc attack
-   - Format-string vulnerability and attack
    - Race Condition vulnerability and attack
    - Dirty COW attack
    - Meltdown and Spectre attack (hardware vulnerability)
@@ -53,7 +52,8 @@ Wenliang Du. [Computer & Internet Security: A Hands-on Approach, 2nd Edition](ht
    - SQL-Injection Attack
    - Click-Jacking Attack
 
- - Blockchain and Smart Contract
-   - How the system works 
-   - Writing smart contract
-   - Attacking smart contract
+ - Internet Security 
+   - Network Security basics
+   - Attacks at various layers (MAC, Network, and Transport layers)
+   - DNS and attacks 
+   - BGP routing and attacks

@@ -16,18 +16,17 @@ about 10 labs for the entire semester.
 
 | Labs   | Due Date | Points |
 | ---    | ---      | ---    |
-| Lab 01: [Environment Variable and Set-UID Lab](https://seedsecuritylabs.org/Labs_20.04/Software/Environment_Variable_and_SetUID/)    |  02/25 14:00pm |  4  |
-| Lab 02: [Shellshock Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Software/Shellshock/)  | 03/02 14:00pm |  3  |
-| Lab 03: [Buffer Overflow Attack Lab (Server Version)](https://seedsecuritylabs.org/Labs_20.04/Software/Buffer_Overflow_Server/)  |  03/11 14:00pm |  5  |
-| **Note on Lab 3:** Levels 2 and 4 are bonus |   | 1 each  |
-| Lab 04: [Race Condition Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Software/Race_Condition/) | 03/18 14:00pm | 4 |
-| Lab 05: [Meltdown](https://seedsecuritylabs.org/Labs_20.04/System/Meltdown_Attack/) and [Spectre](https://seedsecuritylabs.org/Labs_20.04/System/Spectre_Attack/) Labs| 03/25 14:00pm | 4 |
-| **Note on Lab 5:** This one requires Ubuntu 16.04 VM |   | |
-| Lab 06: [Cross-Site Request Forgery Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Web/Web_CSRF_Elgg/) | 04/06 14:00pm | 4 |
-| Lab 07: [Cross-Site Scripting Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Web/Web_XSS_Elgg/) | 04/13 14:00pm | 5 |
-| Lab 08: [SQL Injection Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Web/Web_SQL_Injection/) | 04/22 14:00pm | 5 |
-| Lab 09: [Sniffing/Spoofing Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/Sniffing_Spoofing/) (Set 1 only) | 04/29 14:00pm  | 5 |
-| Lab 10: [TCP Attacks Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/TCP_Attacks/) | 05/11 14:00pm  | 6 |
+| Lab 01: [Cross-Site Request Forgery Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Web/Web_CSRF_Elgg/) | 09/?? 15:30pm | 4 |
+| Lab 02: [Cross-Site Scripting Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Web/Web_XSS_Elgg/) | | 5 |
+| Lab 03: [SQL Injection Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Web/Web_SQL_Injection/) | | 5 |
+| Lab 04: [Environment Variable and Set-UID Lab](https://seedsecuritylabs.org/Labs_20.04/Software/Environment_Variable_and_SetUID/)    |  |  4  |
+| Lab 05: [Shellshock Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Software/Shellshock/)  |  |  3  |
+| Lab 06: [Buffer Overflow Attack Lab (Server Version)](https://seedsecuritylabs.org/Labs_20.04/Software/Buffer_Overflow_Server/)  |  |  5  |
+| **Note on Lab 6:** Levels 2 and 4 are bonus |   | 1 each  |
+| Lab 07: [Race Condition Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Software/Race_Condition/) | | 4 |
+| Lab 08: [Meltdown](https://seedsecuritylabs.org/Labs_20.04/System/Meltdown_Attack/) and [Spectre](https://seedsecuritylabs.org/Labs_20.04/System/Spectre_Attack/) Labs| | 4 |
+| Lab 09: [Sniffing/Spoofing Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/Sniffing_Spoofing/) (Set 1 only) | | 5 |
+| Lab 10: [TCP Attacks Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/TCP_Attacks/) |   | 6 |
 |  |   ||
 
 ## Notes
@@ -38,5 +37,5 @@ about 10 labs for the entire semester.
    Any violation will be punished and reported to the university authority.
 
  - Lab Report: For all labs, You should submit a hardcopy of your lab report
- before the class on the due day. We may ask (randomly) selected students to
- give a demonstration.
+   before the class on the due day. We may ask (randomly) selected students to
+   give a demonstration.

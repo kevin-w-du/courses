@@ -4,17 +4,17 @@
 
 | Week         | Topics | Readings  |  Lab |  
 | ---          | ---    | --- | --- |
-|W01 (02/08 - ) | Introduction + Security Basics | handout | Environment Setup |
-|W02 (02/15 - ) | SetUID & Attacks | Chapters 1 & 2 | [Lab 1](./labs.md) |
-|W03 (02/22 - ) | Shellshock Attack | Chapter 3| [Lab 2](./labs.md) |
-|W04 (03/01 - ) | Buffer Overflow Attack | Chapter 4| [Lab 3](./labs.md) |
-|W05 (03/08 - ) | Race Condition | Chapter 7 | [Lab 4](./labs.md) |
-|W06 (03/15 - ) | Dirty COW, Meltdown, Spectre | Chapters 8, 13, 14 | [Lab 5](./labs.md) | 
-|W07 (03/22 - ) | Web Security | -- | -- | 
-|W08 (03/29 - ) | CSRF & XSS Attacks | Chapters 10, 11 | [Lab 6](./labs.md) | 
-|W09 (04/05 - ) | XSS & SQL Injection Attacks| Chapters 11, 12 | [Lab 7](./labs.md) | 
-|W10 (04/12 - ) | ClickJacking & Exam | handout | [Lab 8](./labs.md) | 
-|W11 (04/19 - ) | Network Security Basics & Sniffing/Spoofing | Chapter 15 | [Lab 9](./labs.md) | 
-|W12 (04/26 - ) | ARP, IP and TCP | Chapter 16  | - |
-|W13 (05/03 - ) | TCP and DNS attacks | Chapters 16, 18 | [Lab 10](./labs.md) | 
-|W14 (05/10 - ) | Course review | - | - | 
+|W01 (08/30 - ) | Introduction + Security Basics | handout | Environment Setup |
+|W02 (09/06 - ) | Web Security | -- | -- | 
+|W03 (09/13 - ) | CSRF & XSS Attacks | Chapters 10, 11 | [Lab 1](./labs.md) | 
+|W04 (09/20 - ) | XSS & SQL Injection Attacks| Chapters 11, 12 | [Lab 7](./labs.md) | 
+|W05 (09/27 - ) | ClickJacking & Exam | handout | [Lab 8](./labs.md) | 
+|W06 (10/04 - ) | Software Security Basics & SetUID | Chapters 1 & 2 | [Lab 1](./labs.md) |
+|W07 (10/11 - ) | Shellshock Attack | Chapter 3| [Lab 2](./labs.md) |
+|W08 (10/18 - ) | Buffer Overflow Attack | Chapter 4| [Lab 3](./labs.md) |
+|W09 (10/25 - ) | Race Condition | Chapter 7 | [Lab 4](./labs.md) |
+|W10 (11/01 - ) | Dirty COW, Meltdown, Spectre | Chapters 8, 13, 14 | [Lab 5](./labs.md) | 
+|W11 (11/08 - ) | Network Security Basics & Sniffing/Spoofing | Chapter 15 | [Lab 9](./labs.md) | 
+|W12 (11/15 - ) | ARP, IP and TCP | Chapter 16  | - |
+|W13 (11/29 - ) | TCP and DNS attacks | Chapters 16, 18 | [Lab 10](./labs.md) | 
+|W14 (12/06 - ) | Course review | - | - | 
