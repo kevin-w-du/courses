@@ -35,6 +35,13 @@ Wenliang Du. [Computer & Internet Security: A Hands-on Approach, 2nd Edition](ht
    - An Overview of Computer Security
    - Course projects (labs)
 
+ - Web Security 
+   - Web security basics
+   - Cross-Site Scripting Attack
+   - Cross-Site Request Forgery Attack
+   - SQL-Injection Attack
+   - Click-Jacking Attack
+
  - Software Security 
    - Unix Security Basics
    - Privileged programs (Set-UID programs) and vulnerabilities
@@ -46,12 +53,6 @@ Wenliang Du. [Computer & Internet Security: A Hands-on Approach, 2nd Edition](ht
    - Meltdown and Spectre attack (hardware vulnerability)
    - Shellshock attack
 
- - Web Security 
-   - Web security basics
-   - Cross-Site Scripting Attack
-   - Cross-Site Request Forgery Attack
-   - SQL-Injection Attack
-   - Click-Jacking Attack
 
  - Blockchain and Smart Contract
    - How the system works 
