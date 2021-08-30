@@ -12,12 +12,9 @@ students can enhance their understanding of the principles, and be able to
 apply those principles to solve real problems.
 
 
-## Lab Sessions 
-
-The TA will hold two lab sessions (identical) each week, 
-we strongly recommend you to attend one of them. 
-The goal of the lab session is to help you work 
-on the labs. 
+## Class Time and Location
+  - Tuesday/Thursday: 3:30 - 4:50
+  - Location: Crouse-Hinds Hall 020
 
 
 ## Instructor

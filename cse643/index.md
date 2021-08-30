@@ -12,8 +12,8 @@ students can enhance their understanding of the principles, and be able to
 apply those principles to solve real problems.
 
 ## Class Time and Location
-  - Tuesday/Thursday: 12:30 - 1:50
-  - Location: Link Hall 105 (or online)
+  - Tuesday/Thursday: 2:00 - 3:20
+  - Location: Falk Room 100
 
 
 ## Instructor
