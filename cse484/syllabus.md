@@ -25,8 +25,7 @@ Wenliang Du. [Computer & Internet Security: A Hands-on Approach, 2nd Edition](ht
 
  - Quizzes and Exams: 50%
  - Labs: 50%
- - Late Homework Policy: 10% penality per business day.
-
+ - Late Homework Policy: 10% penalty per business day.
 
 
 ## Topics
@@ -35,16 +34,6 @@ Wenliang Du. [Computer & Internet Security: A Hands-on Approach, 2nd Edition](ht
    - An Overview of Computer Security
    - Course projects (labs)
 
- - Software Security 
-   - Unix Security Basics
-   - Privileged programs (Set-UID programs) and vulnerabilities
-   - Buffer Overflow vulnerability and attack
-   - Return-to-libc attack
-   - Race Condition vulnerability and attack
-   - Dirty COW attack
-   - Meltdown and Spectre attack (hardware vulnerability)
-   - Shellshock attack
-
  - Web Security 
    - Web security basics
    - Cross-Site Scripting Attack
@@ -52,8 +41,22 @@ Wenliang Du. [Computer & Internet Security: A Hands-on Approach, 2nd Edition](ht
    - SQL-Injection Attack
    - Click-Jacking Attack
 
+ - Software Security 
+   - Unix Security Basics
+   - Privileged programs (Set-UID programs) and vulnerabilities
+   - Buffer Overflow vulnerability and attack
+   - Race Condition vulnerability and attack
+   - Dirty COW attack
+   - Meltdown and Spectre attack (hardware vulnerability)
+   - Shellshock attack
+
  - Internet Security 
    - Network Security basics
    - Attacks at various layers (MAC, Network, and Transport layers)
    - DNS and attacks 
    - BGP routing and attacks
+
+ - Blockchain and Smart Contract (if we have time)
+   - How it works
+   - Attack on smart contract
+
