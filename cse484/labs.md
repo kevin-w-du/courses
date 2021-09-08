@@ -11,12 +11,13 @@ the lab environment. Note: we will use Ubuntu 20.04 VM.
 ## Labs
 
 Lab assignment will be added to here on the weekly basis. We are expected to have 
-about 10 labs for the entire semester. 
+about 10 labs for the entire semester. The deadline for the lab submission 
+is 15:30pm on the due day, unless otherwise specified. 
 
 
 | Labs   | Due Date | Points |
 | ---    | ---      | ---    |
-| Lab 01: [Cross-Site Request Forgery Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Web/Web_CSRF_Elgg/) | | 4 |
+| Lab 01: [Cross-Site Request Forgery Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Web/Web_CSRF_Elgg/) | 9/16 | 4 |
 | Lab 02: [Cross-Site Scripting Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Web/Web_XSS_Elgg/) | | 5 |
 | Lab 03: [SQL Injection Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Web/Web_SQL_Injection/) | | 5 |
 | Lab 04: [Environment Variable and Set-UID Lab](https://seedsecuritylabs.org/Labs_20.04/Software/Environment_Variable_and_SetUID/)    |  |  4  |

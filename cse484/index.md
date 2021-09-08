@@ -29,10 +29,10 @@ apply those principles to solve real problems.
 
   - Chen Luo (email: cluo05@syr.edu)
   - Office hours:
-      - Mon: 20:00 - 21:00
-      - Tue: 20:00 - 21:00
-      - Wed: 20:00 - 21:00 
-      - Thu: 20:00 - 21:00 
+      - Mon: 19:00 - 20:00
+      - Tue: 19:00 - 20:00
+      - Wed: 19:00 - 20:00 
+      - Thu: 19:00 - 20:00 
   - Location: Online 
 
 

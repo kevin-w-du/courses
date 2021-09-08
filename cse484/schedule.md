@@ -5,9 +5,9 @@
 | Week         | Topics | Readings  |  Lab |  
 | ---          | ---    | --- | --- |
 |W01 (08/30 - ) | Introduction & **Web Security** Basics | handout | Environment Setup |
-|W02 (09/06 - ) | CSRF & XSS Attacks | Chapters 10, 11 | [CSRF Lab](./labs.md) | 
-| | XSS & SQL Injection Attacks| Chapters 11, 12 | [XSS Lab](./labs.md) | 
-| | ClickJacking & Exam | handout | [SQL Injection Lab](./labs.md) | 
+|W02 (09/06 - ) | CSRF Attack | Chapter 10 | [CSRF Lab](./labs.md) | 
+|W03 (09/13 - ) | XSS Attack  | Chapter 11 | [XSS Lab](./labs.md) | 
+|W04 (09/20 - ) | SQL Injection & Exam     | Chapter 12 | [SQL Injection Lab](./labs.md) | 
 | | **Software Security** Basics & SetUID | Chapters 1 & 2 | [SetUID Lab](./labs.md) |
 | | Buffer Overflow Attack | Chapter 4| [Buffer Overflow Lab](./labs.md) |
 | | Race Condition | Chapter 7 | [Race Condition Lab](./labs.md) |
