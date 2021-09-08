@@ -25,9 +25,9 @@ is 15:30pm on the due day, unless otherwise specified.
 | **Note on Lab 6:** Levels 2 and 4 are bonus |   | 1 each  |
 | Lab 06: [Race Condition Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Software/Race_Condition/) | | 4 |
 | Lab 07: [Meltdown](https://seedsecuritylabs.org/Labs_20.04/System/Meltdown_Attack/) and [Spectre](https://seedsecuritylabs.org/Labs_20.04/System/Spectre_Attack/) Labs| | 4 |
-| Lab 08: [Sniffing/Spoofing Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/Sniffing_Spoofing/) (Set 1 only) | | 5 |
-| Lab 09: [TCP Attacks Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/TCP_Attacks/) |   | 6 |
-| Lab 10: |   | 6 |
+| Lab 08:  |   | 5 |
+| Lab 09:  |   | 5 |
+| Lab 10:  |   | 6 |
 |  |   ||
 
 ## Notes
