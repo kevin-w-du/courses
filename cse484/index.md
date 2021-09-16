@@ -21,7 +21,7 @@ apply those principles to solve real problems.
   - Kevin Du (email: wedu@syr.edu)
   - Office hours: 
       - Tue: 21:00 - 22:00 (Zoom)
-      - Thu: 12:00 - 13:00 (In person)
+      - Thu: 21:00 - 22:00 (Zoom)
       - Or make an appointment
   - Location: CST4-285
 
@@ -29,10 +29,10 @@ apply those principles to solve real problems.
 
   - Chen Luo (email: cluo05@syr.edu)
   - Office hours:
-      - Mon: 19:00 - 20:00
-      - Tue: 19:00 - 20:00
-      - Wed: 19:00 - 20:00 
+      - Mon: 20:00 - 21:00
+      - Wed: 20:00 - 21:00 
       - Thu: 19:00 - 20:00 
+      - Fri: 10:00 - 12:00 (noon) 
   - Location: Online 
 
 

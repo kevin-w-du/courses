@@ -20,7 +20,7 @@ apply those principles to solve real problems.
   - Kevin Du (email: wedu@syr.edu)
   - Office hours:
       - Tue: 21:00 - 22:00 (Zoom)
-      - Thu: 12:00 - 13:00 (In person)
+      - Thu: 21:00 - 22:00 (Zoom)
       - Or make an appointment
   - Location: CST4-285
 
