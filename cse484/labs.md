@@ -18,8 +18,8 @@ is 15:30pm on the due day, unless otherwise specified.
 | Labs   | Due Date | Points |
 | ---    | ---      | ---    |
 | Lab 01: [Cross-Site Request Forgery Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Web/Web_CSRF_Elgg/) | 9/16 | 4 |
-| Lab 02: [Cross-Site Scripting Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Web/Web_XSS_Elgg/) | | 5 |
-| Lab 03: [SQL Injection Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Web/Web_SQL_Injection/) | | 5 |
+| Lab 02: [Cross-Site Scripting Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Web/Web_XSS_Elgg/) | 9/23  | 5 |
+| Lab 03: [SQL Injection Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Web/Web_SQL_Injection/) | 9/30 | 5 |
 | Lab 04: [Environment Variable and Set-UID Lab](https://seedsecuritylabs.org/Labs_20.04/Software/Environment_Variable_and_SetUID/)    |  |  4  |
 | Lab 05: [Buffer Overflow Attack Lab (Server Version)](https://seedsecuritylabs.org/Labs_20.04/Software/Buffer_Overflow_Server/)  |  |  5  |
 | **Note on Lab 6:** Levels 2 and 4 are bonus |   | 1 each  |
