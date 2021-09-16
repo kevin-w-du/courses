@@ -11,15 +11,13 @@ the lab environment. Note: we will use Ubuntu 20.04 VM.
 ## Labs
 
 Lab assignment will be added to here on the weekly basis. We are expected to have 
-about 10 labs for the entire semester. The deadline for the lab submission 
-is 23:59pm on the due day, unless otherwise specified. 
-
+about 10 labs for the entire semester. 
 
 | Labs   | Due Date | Points |
 | ---    | ---      | ---    |
-| Lab 01: [Cross-Site Request Forgery Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Web/Web_CSRF_Elgg/) | 9/16 | 4 |
-| Lab 02: [Cross-Site Scripting Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Web/Web_XSS_Elgg/) | Fri 9/24 (23:59 PM)  | 5 |
-| Lab 03: [SQL Injection Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Web/Web_SQL_Injection/) | Fri 10/1 (23:59 PM) | 5 |
+| Lab 01: [Cross-Site Request Forgery Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Web/Web_CSRF_Elgg/) | Thu 9/16 (15:30pm) | 4 |
+| Lab 02: [Cross-Site Scripting Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Web/Web_XSS_Elgg/) | Fri 9/24 (23:59pm)  | 5 |
+| Lab 03: [SQL Injection Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Web/Web_SQL_Injection/) | Fri 10/1 (23:59pm) | 5 |
 | Lab 04: [Environment Variable and Set-UID Lab](https://seedsecuritylabs.org/Labs_20.04/Software/Environment_Variable_and_SetUID/)    |  |  4  |
 | Lab 05: [Buffer Overflow Attack Lab (Server Version)](https://seedsecuritylabs.org/Labs_20.04/Software/Buffer_Overflow_Server/)  |  |  5  |
 | **Note on Lab 6:** Levels 2 and 4 are bonus |   | 1 each  |
