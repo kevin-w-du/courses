@@ -24,6 +24,7 @@ Wenliang Du. [Computer & Internet Security: A Hands-on Approach, 2nd Edition](ht
 ## Grading (subject to change)
 
  - Quizzes and Exams: 50%
+    - Quiz 1 (Web security): 6%
  - Labs: 50%
  - Late Homework Policy: 10% penalty per business day.
 
