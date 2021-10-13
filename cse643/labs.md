@@ -20,9 +20,9 @@ about 10 labs for the entire semester.
 | Lab 02: [Cross-Site Scripting Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Web/Web_XSS_Elgg/) | Fri 9/24 (23:59) | 5 |
 | Lab 03: [SQL Injection Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Web/Web_SQL_Injection/) | Fri 10/1 (23:59) | 5 |
 | Lab 04: [Environment Variable and Set-UID Lab](https://seedsecuritylabs.org/Labs_20.04/Software/Environment_Variable_and_SetUID/)    | Mon 10/11 (23:59) |  5  |
-| Lab 05: [Race Condition Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Software/Race_Condition/) | Mon 10/18 (23:59) | 5 | Tasks 1 & 2 only.
-| Lab 06: [Spectre](https://seedsecuritylabs.org/Labs_20.04/System/Spectre_Attack/) Labs| Fri 10/22 (23:59) | 4 |
-| Lab 07: [Buffer Overflow Attack Lab (Server Version)](https://seedsecuritylabs.org/Labs_20.04/Software/Buffer_Overflow_Server/)  |  |  6  |
+| Lab 05: [Race Condition Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Software/Race_Condition/) | Mon 10/18 (23:59) | 3 | Tasks 1 & 2 only.
+| Lab 06: [Spectre Attack Lab](https://seedsecuritylabs.org/Labs_20.04/System/Spectre_Attack/) | Fri 10/22 (23:59) | 3 |
+| Lab 07: [Buffer Overflow Attack Lab (Server Version)](https://seedsecuritylabs.org/Labs_20.04/Software/Buffer_Overflow_Server/)  | Fri 10/29 (23:59) |  7  |
 | Lab 08:  |   | 5 |
 | Lab 09:  |   | 5 |
 | Lab 10:  |   | 6 |
