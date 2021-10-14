@@ -13,8 +13,8 @@ the lab environment. Note: we will use Ubuntu 20.04 VM.
 Lab assignment will be added to here on the weekly basis. We are expected to have 
 about 10 labs for the entire semester. 
 
-| Labs   | Due Date | Points |
-| ---    | ---      | ---    |
+| Labs   | Due Date | Points | Notes |
+| ---    | ---      | ---    | ---   |
 | Lab 01: [Cross-Site Request Forgery Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Web/Web_CSRF_Elgg/) | Thu 9/16 (15:30) | 4 |
 | Lab 02: [Cross-Site Scripting Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Web/Web_XSS_Elgg/) | Fri 9/24 (23:59)  | 5 |
 | Lab 03: [SQL Injection Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Web/Web_SQL_Injection/) | Fri 10/1 (23:59) | 5 |
@@ -22,7 +22,7 @@ about 10 labs for the entire semester.
 | Lab 05: [Race Condition Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Software/Race_Condition/) | Mon 10/18 (23:59) | 3 | Tasks 1 & 2 only
 | Lab 06: [Spectre Attack Lab](https://seedsecuritylabs.org/Labs_20.04/System/Spectre_Attack/) Labs| Friday 10/22 (23:59) | 3 |
 | Lab 07: [Buffer Overflow Attack Lab (Server Version)](https://seedsecuritylabs.org/Labs_20.04/Software/Buffer_Overflow_Server/)  | Friday 10/29 (23:59) |  6  |
-| **Note on Lab 6:** Levels 2 and 4 are bonus |   | 1 each  |
+| **Note on Lab 7:** Levels 2 and 4 are bonus |   | 1 each  |
 | Lab 08: [Sniffing/Spoofing Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/Sniffing_Spoofing/) (Set 1 only) | | 5 |
 | Lab 09: [TCP Attacks Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/TCP_Attacks/) |   | 6 |
 | Lab 10: |   | 6 |
