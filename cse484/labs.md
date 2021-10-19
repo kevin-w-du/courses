@@ -26,7 +26,7 @@ about 10 labs for the entire semester.
 | Lab 08: [Sniffing/Spoofing Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/Sniffing_Spoofing/) (Set 1 only) | Friday 11/05 (23:59) | 5 |
 | Lab 09: [ARP Cache Poisoning Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/ARP_Attack) (Task 1 only) | Friday 11/12 (23:59) | 4 |
 | Lab 10: [TCP Attacks Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/TCP_Attacks/) | Friday 11/19 (23:59) | 6 |
-| Lab 11: [BGP Attack Lab] | Friday 12/10 (23:59) | 6 |
+| Lab 11: BGP Attack Lab | Friday 12/10 (23:59) | 5 |
 |  |   ||
 
 ## Notes
