@@ -23,7 +23,7 @@ about 10 labs for the entire semester.
 | Lab 05: [Race Condition Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Software/Race_Condition/) | Mon 10/18 (23:59) | 3 | Tasks 1 & 2 only.
 | Lab 06: [Spectre Attack Lab](https://seedsecuritylabs.org/Labs_20.04/System/Spectre_Attack/) | Fri 10/22 (23:59) | 3 |
 | Lab 07: [Buffer Overflow Attack Lab (Server Version)](https://seedsecuritylabs.org/Labs_20.04/Software/Buffer_Overflow_Server/)  | Fri 10/29 (23:59) |  7  |
-| Lab 08: [Return-to-libc Attack Lab] (https://seedsecuritylabs.org/Labs_20.04/Software/Return_to_Libc/)  | Friday 11/05 (23:59) | 5 |
+| Lab 08: [Return-to-libc Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Software/Return_to_Libc/)  | Friday 11/05 (23:59) | 5 |
 | Lab 09: [Format String Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Software/Format_String/) | Friday 11/12 (23:59)  | 5 |
 | Lab 10: Mini-Project (group, size <= 2) | Friday 12/10 (23:59)  | 15 | Demo + Report
 |  |   ||
