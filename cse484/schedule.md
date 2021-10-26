@@ -17,5 +17,5 @@
 |W10 (11/01 - ) | ARP and IP | --  | [ARP Attack Lab](./labs.md) |
 |W11 (11/08 - ) | TCP | Chapter 16  | [TCP Attack Lab](./labs.md) |
 |W12 (11/15 - ) | DNS attacks | Chapters 18 | | 
-|W13 (11/29 - ) | BGP | handout | | 
+|W13 (11/29 - ) | BGP | handout | [BGP Attack Lab](./labs.md) | 
 |W14 (12/06 - ) | Course review | - | - | 
