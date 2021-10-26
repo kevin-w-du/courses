@@ -14,7 +14,8 @@
 |W07 (10/11 - ) | Meltdown, Spectre | Chapters 13 & 14 | [Spectre Lab](./labs.md) | 
 |W08 (10/18 - ) | Buffer Overflow Attack | Chapter 4| [Buffer Overflow Lab](./labs.md) |
 |W09 (10/25 - ) | **Network Security** Basics & Sniffing/Spoofing | Chapter 15 | [Sniffing/Spoofing Lab](./labs.md) | 
-| | IP and TCP | Chapter 16  | [TCP Lab](./labs.md) |
-| | DNS attacks | Chapters 18 | | 
-| | BGP | | | 
+|W10 (11/01 - ) | ARP and IP | --  | [ARP Attack Lab](./labs.md) |
+|W11 (11/08 - ) | TCP | Chapter 16  | [TCP Attack Lab](./labs.md) |
+|W12 (11/15 - ) | DNS attacks | Chapters 18 | | 
+|W13 (11/29 - ) | BGP | handout | | 
 |W14 (12/06 - ) | Course review | - | - | 
