@@ -25,7 +25,7 @@ about 10 labs for the entire semester.
 | Lab 07: [Buffer Overflow Attack Lab (Server Version)](https://seedsecuritylabs.org/Labs_20.04/Software/Buffer_Overflow_Server/)  | Fri 10/29 (23:59) |  7  |
 | Lab 08: [Return-to-libc Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Software/Return_to_Libc/)  | Friday 11/05 (23:59) | 5 |
 | Lab 09: [Format String Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Software/Format_String/) | Friday 11/12 (23:59)  | 5 |
-| Final Project (group, size <= 2) | Friday 12/10 (23:59)  | 15 | Demo + Report
+| Final Project (group, size <= 2) | Friday 12/19 (23:59)  | 15 | Demo + Report
 | Total Points |   | 57 |
 |  |   ||
 
@@ -34,7 +34,9 @@ about 10 labs for the entire semester.
  - Final Project: students who are not able to do the final project due to the lack
    of the programming background can choose to move the weight of this project
    to the final exam, but only 10 points (out of 15) will be moved, and the other 
-   5 points will be lost. 
+   5 points will be lost. You don't need to tell me about your decision until
+   the deadline of the project, as I want to encourage you to work on the project,
+   instead of taking the penalty.
 
  - Working individually or in group: All labs are individual labs. You are 
    encouraged to discuss with others, but each student must independently
