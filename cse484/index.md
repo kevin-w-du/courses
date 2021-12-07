@@ -12,6 +12,12 @@ students can enhance their understanding of the principles, and be able to
 apply those principles to solve real problems.
 
 
+## Final Exam and Office Hours 
+  - Tuesday 12/14/2021: 12:45PM - 2:45PM (CH020)
+  - Office Hours
+      - 12/12: 8:00PM - 10:00PM (Zoom)
+      - 12/13: 8:00PM - 10:00PM (Zoom)
+
 ## Class Time and Location
   - Tuesday/Thursday: 3:30 - 4:50
   - Location: Crouse-Hinds Hall 020

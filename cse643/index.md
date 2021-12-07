@@ -11,6 +11,13 @@ and requires students to conduct a series of lab exercises. Through these labs,
 students can enhance their understanding of the principles, and be able to
 apply those principles to solve real problems.
 
+## Final Exam and Office Hours
+  - Friday 12/17/2021: 8:00AM - 10:00AM (Falk Room 100)
+  - Office Hours
+      - 12/15: 8:00PM - 10:00PM (Zoom)
+      - 12/16: 8:00PM - 10:00PM (Zoom)
+
+
 ## Class Time and Location
   - Tuesday/Thursday: 2:00 - 3:20
   - Location: Falk Room 100
