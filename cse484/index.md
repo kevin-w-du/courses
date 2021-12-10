@@ -17,6 +17,7 @@ apply those principles to solve real problems.
   - Office Hours
       - 12/12: 8:00PM - 10:00PM (Zoom)
       - 12/13: 8:00PM - 10:00PM (Zoom)
+  - [Practice questions](https://www.handsonsecurity.net/resources.html) 
 
 ## Class Time and Location
   - Tuesday/Thursday: 3:30 - 4:50
