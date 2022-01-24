@@ -16,7 +16,7 @@ about 10 labs for the entire semester.
 
 | Labs   | Due Date | Points-U | Points-G | Notes |
 | ---    | ---      | ---      | ---      | ---   |
-| Lab 01: [Sniffing/Spoofing Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/Sniffing_Spoofing/) | | 4 | | Set 2 is bonus (up to 30% of bonus points)
+| Lab 01: [Sniffing/Spoofing Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/Sniffing_Spoofing/) | | 4 | | Set 2 is optional (2 bonus points)
 | Lab 02: [ARP Cache Poisoning Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/ARP_Attack) | | 4 |  |
 | Lab 03: [TCP Attacks Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/TCP_Attacks/) |  | 5 |  |
 | Lab 04: Firewall Lab |  | 5 |  |
