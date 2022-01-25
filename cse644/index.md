@@ -28,7 +28,13 @@ apply those principles to solve real problems.
   - Office hours:
       - Tue: 21:00 - 22:00 (Zoom)
       - Thu: 21:00 - 22:00 (Zoom)
-      - Or make an appointment
-  - Location: CST4-285
+      - Zoom link is on Blackboard
+  - Office: CST4-285
+
+## TA
+  - Hao Tian (email: htian101@syr.edu)
+  - Office hours:
+      - Monday to Thursday: 20:00 - 21:00 (Zoom)
+      - Zoom link is on Blackboard
 
 
