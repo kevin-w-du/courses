@@ -7,5 +7,8 @@
 |W01 (01/24 - ) | Introduction + Network Security Basics| Handout | Environment Setup |
 |W02 (01/31 - ) | Packet Sniffing & Spoofing | Chapter 15 | [Sniffing-Spoofing Lab](./labs.md) |
 |W03 (02/07 - ) | ARP and IP | -- | [ ARP Attack Lab](./labs.md) |
-|W04 (02/14 - ) | TCP | Chapter 16 | [TCP Attack Lab](./labs.md) |
+|W04 (02/14 - ) | UDP and TCP | Chapter 16 | [ICMP Redirect Attack Lab](./labs.md) |
+|W05 (02/21 - ) | TCP | Chapter 16 | [TCP Attack Lab](./labs.md) |
+|W06 (02/28 - ) | Firewall | Chapter 17 | [Firewall Lab](./labs.md) |
+|W07 (03/07 - ) | DNS | Chapter 18 | [DNS Attack Labs](./labs.md) |
 |||||
