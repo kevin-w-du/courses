@@ -17,15 +17,16 @@ about 10 labs for the entire semester.
 | Labs   | Due Date | Points-G | Points-U | Notes |
 | ---    | ---      | ---      | ---      | ---   |
 | Lab 01: [Sniffing/Spoofing Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/Sniffing_Spoofing/) | Tue 2/8 (23:59) | 4 | 4 | Set 2 is optional (2 bonus points)
-| Lab 02: [ARP Cache Poisoning Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/ARP_Attack) | | 4 |  |
-| Lab 03: [TCP Attacks Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/TCP_Attacks/) |  | 5 |  |
-| Lab 04: Firewall Lab |  | 5 |  |
-| Lab 05: Local & Remote DNS Attacks Lab |  | 6 |  |
-| Lab 06: VPN Tunneling Lab | | 5 |  | 
-| Lab 07: BGP Exploration and Attack Lab | | 6 |  |
-| Lab 08: Secret Key Encryption Lab |  | 5 |   |
-| Lab 09: MD5 Collision Attack Lab |  | 4 |   |
-| Lab 10: PKI and TLS Labs | | 6 |   |
+| Lab 02: [ARP Cache Poisoning Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/ARP_Attack) | Tue 2/15 (23:59) | 4 | 4 |
+| Lab 03: [ICMP Redirect Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/ICMP_Redirect/) | Tue 2/22 (23:59) | 4 | 4 |
+| Lab 04: [TCP Attacks Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/TCP_Attacks/) |  | 5 |  |
+| Lab 05: Firewall Lab |  | 5 |  |
+| Lab 06: Local & Remote DNS Attacks Lab |  | 6 |  |
+| Lab 07: VPN Tunneling Lab | | 5 |  | 
+| Lab 08: BGP Exploration and Attack Lab | | 6 |  |
+| Lab 09: Secret Key Encryption Lab |  | 5 |   |
+| Lab 10: MD5 Collision Attack Lab |  | 4 |   |
+| Lab 11: PKI and TLS Labs | | 6 |   |
 | Total Points |   | 50 | 50  | 
 |  |   |||
 
