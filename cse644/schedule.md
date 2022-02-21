@@ -9,6 +9,7 @@
 |W03 (02/07 - ) | ARP and IP | -- | [ ARP Attack Lab](./labs.md) |
 |W04 (02/14 - ) | UDP and TCP | Chapter 16 | [ICMP Redirect Attack Lab](./labs.md) |
 |W05 (02/21 - ) | TCP | Chapter 16 | [TCP Attack Lab](./labs.md) |
-|W06 (02/28 - ) | Firewall | Chapter 17 | [Firewall Lab](./labs.md) |
-|W07 (03/07 - ) | DNS | Chapter 18 | [DNS Attack Labs](./labs.md) |
+|W06 (02/28 - ) | VPN | Chapter 19 | [VPN Tunneling Lab](./labs.md) |
+|W07 (03/07 - ) | Firewall | Chapter 17 | [Firewall Lab](./labs.md) |
+|W08 (03/21 - ) | DNS | Chapter 18 | [DNS Attack Labs](./labs.md) |
 |||||
