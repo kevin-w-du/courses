@@ -21,12 +21,12 @@ about 10 labs for the entire semester.
 | Lab 03: [ICMP Redirect Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/ICMP_Redirect/) | Tue 2/22 (23:59) | 4 | 4 |
 | Lab 04: [TCP Attacks Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/TCP_Attacks/) | Tue 3/01 (23:59) | 5 | 5 |
 | Lab 05: [VPN Tunneling Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/VPN_Tunnel/) | Fri 3/11 (23:59) | 6 | 6 | 
-| Lab 06: Firewall Lab | Thu 3/24 (23:59) | 5 | 5 |
-| Lab 06: Local & Remote DNS Attacks Lab | Thu 3/31 (23:59) | 6 | 6 |
-| Lab 08: BGP Exploration and Attack Lab | | 6 |  |
-| Lab 09: Secret Key Encryption Lab |  | 5 |   |
-| Lab 10: MD5 Collision Attack Lab |  | 4 |   |
-| Lab 11: PKI and TLS Labs | | 6 |   |
+| Lab 06: [Firewall Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/Firewall/) | Fri 3/25 (23:59) | 5 | 5 |
+| Lab 06: Local & Remote DNS Attacks Lab | Tue 4/05 (23:59) | 6 | 6 | Remote is optional for Undergraduates
+| Lab 08: BGP Exploration and Attack Lab | | 6 | 6 |
+| Lab 09: Secret Key Encryption Lab |  | 5 | 5  |
+| Lab 10: MD5 Collision Attack Lab |  | 4 |  4 |
+| Lab 11: PKI and TLS Labs | | 6 |  5 |
 | Total Points |   | 50 | 50  | 
 |  |   |||
 
