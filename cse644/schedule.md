@@ -12,4 +12,9 @@
 |W06 (02/28 - ) | VPN | Chapter 19 | [VPN Tunneling Lab](./labs.md) |
 |W07 (03/07 - ) | Firewall | Chapter 17 | [Firewall Lab](./labs.md) |
 |W08 (03/21 - ) | DNS | Chapter 18 | [DNS Attack Labs](./labs.md) |
+|W09 (03/28 - ) | DNS | Chapter 18 | [DNS Attack Labs](./labs.md) |
+|W10 (04/04 - ) | BGP | [Book chapter](https://seedsecuritylabs.org/Labs_20.04/Networking/BGP/BGP_Exploration_Attack/BGP_Du.pdf)| - |
+|W11 (04/11 - ) | | | |
+|W12 (04/18 - ) | | | |
+|W13 (04/25 - ) | | | |
 |||||
