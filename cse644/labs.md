@@ -24,9 +24,8 @@ about 10 labs for the entire semester.
 | Lab 06: [Firewall Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/Firewall/) | Fri 3/25 (23:59) | 5 | 5 |
 | Lab 07: [Local DNS Attacks Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/DNS/DNS_Local/)  | Tue 4/05 (23:59) | 4 | 6 | 
 | Lab 08: [Kaminsky Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/DNS/DNS_Remote/) | Fri 4/08 (23:59) | 4 | - | not required for undergrads
-| Lab 09: Secret Key Encryption Lab |  | 5 | 5  |
-| Lab 10: MD5 Collision Attack Lab |  | 4 |  4 |
-| Lab 11: PKI and TLS Labs | | 6 |  5 |
+| Lab 09: [Secret Key Encryption Lab](https://seedsecuritylabs.org/Labs_20.04/Crypto/Crypto_Encryption/) | Fri 4/22 (23:59) | 5 | 6  | Tasks 2, 3, 4, 6 only
+| Lab 10: [PKI Lab](https://seedsecuritylabs.org/Labs_20.04/Crypto/Crypto_PKI/) | Tue 5/3 (23:59) | 5 |  6 |
 | Total Points |   | 50 | 50  | 
 |  |   |||
 

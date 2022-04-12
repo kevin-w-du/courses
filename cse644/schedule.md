@@ -14,7 +14,7 @@
 |W08 (03/21 - ) | DNS | Chapter 18 | [DNS Attack Labs](./labs.md) |
 |W09 (03/28 - ) | DNS | Chapter 18 | [DNS Attack Labs](./labs.md) |
 |W10 (04/04 - ) | BGP | [Book chapter](https://seedsecuritylabs.org/Labs_20.04/Networking/BGP/BGP_Exploration_Attack/BGP_Du.pdf)| - |
-|W11 (04/11 - ) | | | |
-|W12 (04/18 - ) | | | |
-|W13 (04/25 - ) | | | |
+|W11 (04/11 - ) | Encryption   | Chapter 21 | [Encryption Lab](./labs.md) |
+|W12 (04/18 - ) | Public Key Infrastructure | Chapter 23 | [PKI Lab](./labs.md) |
+|W13 (04/25 - ) | One-way Hash | Chapter 22 | no lab |
 |||||
