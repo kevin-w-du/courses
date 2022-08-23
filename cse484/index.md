@@ -34,12 +34,8 @@ apply those principles to solve real problems.
 
 ## Teaching Assistant
 
-  - Chen Luo (email: cluo05@syr.edu)
+  - Weixiang Wang (email: wwang69@syr.edu)
   - Office hours:
-      - Mon: 20:00 - 21:00
-      - Wed: 20:00 - 21:00 
-      - Thu: 19:00 - 20:00 
-      - Fri: 10:00 - 12:00 (noon) 
-  - Location: Online 
+  - Location: 
 
 

@@ -18,7 +18,7 @@ In this course, students will study a variety of attacks on computer software an
 
 ## Required Textbook
 
-Wenliang Du. [Computer & Internet Security: A Hands-on Approach, 2nd Edition](https://www.handsonsecurity.net/).
+Wenliang Du. [Computer & Internet Security: A Hands-on Approach, 3rd Edition](https://www.handsonsecurity.net/).
 
 
 ## Grading (subject to change)
@@ -57,7 +57,7 @@ Wenliang Du. [Computer & Internet Security: A Hands-on Approach, 2nd Edition](ht
    - DNS and attacks 
    - BGP routing and attacks
 
- - Blockchain and Smart Contract (if we have time)
-   - How it works
+ - Blockchain, Ethereum, and Smart Contract 
+   - A brief tutorial
    - Attack on smart contract
 
