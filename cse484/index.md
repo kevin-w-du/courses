@@ -13,21 +13,17 @@ apply those principles to solve real problems.
 
 
 ## Final Exam and Office Hours 
-  - Tuesday 12/14/2021: 12:45PM - 2:45PM (CH020)
-  - Office Hours
-      - 12/12: 8:00PM - 10:00PM (Zoom)
-      - 12/13: 8:00PM - 10:00PM (Zoom)
+  - Friday 12/16/2022: 5:15PM - 7:15PM (CH020)
   - [Practice questions](https://www.handsonsecurity.net/resources.html) 
 
 ## Class Time and Location
-  - Tuesday/Thursday: 3:30 - 4:50
+  - Tuesday/Thursday: 3:30PM - 4:50PM
   - Location: Crouse-Hinds Hall 020
-
 
 ## Instructor
   - Kevin Du (email: wedu@syr.edu)
   - Office hours: 
-      - Tue: 21:00 - 22:00 (Zoom)
+      - Tue: 12:30 - 13:30 (Office)
       - Thu: 21:00 - 22:00 (Zoom)
       - Or make an appointment
   - Location: CST4-285
@@ -37,5 +33,4 @@ apply those principles to solve real problems.
   - Weixiang Wang (email: wwang69@syr.edu)
   - Office hours:
   - Location: 
-
 
