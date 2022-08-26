@@ -28,4 +28,9 @@ apply those principles to solve real problems.
       - Or make an appointment
   - Location: CST4-285
 
+## TA
+  - Spoorthi Somashekar (email: spsomash@syr.edu)
+  - Junle Liang (email: juliang@syr.edu)
+  - Office hours: TBA
+
 
