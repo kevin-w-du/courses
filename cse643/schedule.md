@@ -4,7 +4,8 @@
 
 | Week         | Topics | Readings  |  Lab |  
 | ---          | ---    | --- | --- |
-|W01 (08/30 - ) | Introduction + Web Security Basics| Handout | Environment Setup |
-|W02 (09/06 - ) | CSRF Attack | Chapter 10 | [CSRF Lab](./labs.md) |
-|W03 (09/13 - ) | XSS Attack  | Chapter 11 | [XSS Lab](./labs.md) |
+|W01 (08/30 - ) | Introduction + Web Security Basics| Handout | Environment Setup | 
+|W02 (09/06 - ) | CSRF Attack | Chapter 10 | [CSRF Lab](./labs.md) | 
+|W03 (09/13 - ) | XSS Attack  | Chapter 11 | [XSS Lab](./labs.md) | 
 |W04 (09/20 - ) | SQL Injection & Clickjacking  | Chapter 12 | [SQL Injection Lab](./labs.md) |
+|||||

@@ -28,7 +28,6 @@ Wenliang Du. [Computer Security: A Hands-on Approach, 3rd Edition](https://www.h
  - Late Homework Policy: 10% penalty per business day.
 
 
-
 ## Topics
  - Introduction and Basics
    - Class Introduction (syllabus, policies, and projects)
@@ -49,12 +48,12 @@ Wenliang Du. [Computer Security: A Hands-on Approach, 3rd Edition](https://www.h
    - Return-to-libc attack
    - Format-string vulnerability and attack
    - Race Condition vulnerability and attack
-   - Dirty COW attack
    - Meltdown and Spectre attack (hardware vulnerability)
    - Shellshock attack
 
+ - Blockchain, Cryptocurrency, and Smart Contract
+   - Cryptography foundation: a brief tutorial
+   - Bitcoin
+   - Ethereum
+   - Smart contract, vulnerabilities, and attacks
 
- - Blockchain and Smart Contract
-   - How the system works 
-   - Writing smart contract
-   - Attacking smart contract
