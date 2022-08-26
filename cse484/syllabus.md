@@ -24,7 +24,6 @@ Wenliang Du. [Computer & Internet Security: A Hands-on Approach, 3rd Edition](ht
 ## Grading (subject to change)
 
  - Quizzes and Exams: 50%
-    - Quiz 1 (Web security): 6%
  - Labs: 50%
  - Late Homework Policy: 10% penalty per business day.
 
@@ -42,22 +41,22 @@ Wenliang Du. [Computer & Internet Security: A Hands-on Approach, 3rd Edition](ht
    - SQL-Injection Attack
    - Click-Jacking Attack
 
- - Software Security 
+ - Software/Hardware Security 
    - Unix Security Basics
    - Privileged programs (Set-UID programs) and vulnerabilities
    - Buffer Overflow vulnerability and attack
    - Race Condition vulnerability and attack
-   - Dirty COW attack
    - Meltdown and Spectre attack (hardware vulnerability)
-   - Shellshock attack
 
  - Internet Security 
    - Network Security basics
-   - Attacks at various layers (MAC, Network, and Transport layers)
+   - Attacks at the TCP/IP protocols
    - DNS and attacks 
    - BGP routing and attacks
 
- - Blockchain, Ethereum, and Smart Contract 
-   - A brief tutorial
-   - Attack on smart contract
+ - Blockchain, Cryptocurrency, and Smart Contract 
+   - Cryptography foundation: a brief tutorial
+   - Bitcoin 
+   - Ethereum 
+   - Smart contract, vulnerabilities, and attacks
 
