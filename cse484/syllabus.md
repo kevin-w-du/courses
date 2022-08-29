@@ -60,3 +60,13 @@ Wenliang Du. [Computer & Internet Security: A Hands-on Approach, 3rd Edition](ht
    - Ethereum 
    - Smart contract, vulnerabilities, and attacks
 
+
+## Data collection statement
+
+As part of the regular ABET accreditation process for the undergraduate
+programs in computer and electrical engineering, we will be collecting samples
+of students' work in each of our undergraduate classes.  As a result, some of
+your labs/homeworks/exams may be photocopied/scanned and saved to present to
+the ABET evaluators who visit next fall.
+
+
