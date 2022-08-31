@@ -32,7 +32,7 @@ apply those principles to solve real problems.
   - Junle Liang (juliang@syr.edu)
   - Office hours: 
       - Mon: 20:00 - 21:00 (Zoom link on Slack/Blackboard)
-      - Wed: 15:00 - 16:00 (CST 0-121)
+      - Wed: 16:00 - 17:00 (CST 0-123)
       - Thu: 20:00 - 21:00 (Zoom link on Slack/Blackboard)
       - Fri: 11:00 - 12:00 (CST 0-121)
 
