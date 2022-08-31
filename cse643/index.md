@@ -21,16 +21,19 @@ apply those principles to solve real problems.
 
 
 ## Instructor
-  - Kevin Du (email: wedu@syr.edu)
+  - Kevin Du (wedu@syr.edu)
   - Office hours:
-      - Tue: 12:30 - 13:30 (Office)
-      - Thu: 21:00 - 22:00 (Zoom)
+      - Tue: 12:30 - 13:30 (CST 4-285)
+      - Thu: 21:00 - 22:00 (Zoom link on Slack/Blackboard)
       - Or make an appointment
-  - Location: CST4-285
 
-## TA
-  - Spoorthi Somashekar (email: spsomash@syr.edu)
-  - Junle Liang (email: juliang@syr.edu)
-  - Office hours: TBA
+## Teaching Assistants
+  - Spoorthi Somashekar (spsomash@syr.edu)
+  - Junle Liang (juliang@syr.edu)
+  - Office hours: 
+      - Mon: 20:00 - 21:00 (Zoom link on Slack/Blackboard)
+      - Wed: 15:00 - 16:00 (CST 0-121)
+      - Thu: 20:00 - 21:00 (Zoom link on Slack/Blackboard)
+      - Fri: 11:00 - 12:00 (CST 0-121)
 
 

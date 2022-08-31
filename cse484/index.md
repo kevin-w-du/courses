@@ -23,14 +23,16 @@ apply those principles to solve real problems.
 ## Instructor
   - Kevin Du (email: wedu@syr.edu)
   - Office hours: 
-      - Tue: 12:30 - 13:30 (Office)
-      - Thu: 21:00 - 22:00 (Zoom)
+      - Tue: 12:30 - 13:30 (CST4-285)
+      - Thu: 21:00 - 22:00 (Zoom link on Slack/Blackboard)
       - Or make an appointment
-  - Location: CST4-285
 
 ## Teaching Assistant
 
   - Weixiang Wang (email: wwang69@syr.edu)
   - Office hours:
-  - Location: 
+      - Tue: 20:00 - 21:00 (Zoom link on Slack/Blackboard) 
+      - Wed: 11:40 - 12:35 (Link 105)
+      - Thu: 20:00 - 21:00 (Zoom link on Slack/Blackboard) 
+      - Fri: 10:00 - 11:00 (CST 4-116)
 
