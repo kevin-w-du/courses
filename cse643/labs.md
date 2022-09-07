@@ -16,7 +16,7 @@ about 10 labs for the entire semester.
 
 | Labs   | Due Date | Points | Notes |
 | ---    | ---      | ---    | ---   |
-| Lab 01: [Cross-Site Request Forgery Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Web/Web_CSRF_Elgg/) | 9/13 (23:59) | 4 |
+| Lab 01: [Cross-Site Request Forgery Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Web/Web_CSRF_Elgg/) | Tue 9/13 (23:59) | 4 |
 | Lab 02: [Cross-Site Scripting Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Web/Web_XSS_Elgg/) | Fri 9/20 (23:59) | 5 |
 | Total Points |   | 9 |
 |  |   ||
