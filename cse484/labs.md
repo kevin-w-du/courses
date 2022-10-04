@@ -18,7 +18,8 @@ about 10 labs for the entire semester.
 | Lab 01: [Cross-Site Request Forgery Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Web/Web_CSRF_Elgg/) | Tue 09/13 23:59 | 4 |
 | Lab 02: [Cross-Site Scripting Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Web/Web_XSS_Elgg/) | Thu 09/22 23:59 | 5 |
 | Lab 03: [SQL Injection Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Web/Web_SQL_Injection/) | Thu 09/29 23:59 | 5 |
-| Total Points |   | 14 |
+| Lab 04: [Set-UID Lab](https://seedsecuritylabs.org/Labs_20.04/Software/Environment_Variable_and_SetUID/) | Tue 10/11 23:59 | 5 | Tasks 5 - 9 only 
+| Total Points |   | 19 |
 |  |   ||
 
 ## Notes
