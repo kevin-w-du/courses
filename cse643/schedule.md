@@ -11,4 +11,11 @@
 |W05 (09/27 - ) | Set-UID | Chapters 1-3 | |
 |W06 (10/04 - ) | Quiz 1 and Set-UID | | [Set-UID Lab](./labs.md) |
 |W07 (10/11 - ) | Race Condition  | Chapter 7 | [Race Condition Lab](./labs.md) |
+|W08 (10/18 - ) | Buffer Overflow | Chapter 4 | [Buffer Overflow Lab](./labs.md) |
+|W09 (10/25 - ) | Return to libc  | Chapter 5 | [Return-to-libc Attack Lab](./labs.md) |
+|W10 (11/01 - ) | Shellcode, reverse shell    | Chapters 9 & 10 |  |
+|W11 (11/08 - ) | Format String   | Chapter 6 |   |
+|W12 (11/15 - ) | TBA | |   |
+|W13 (11/29 - ) | Blockchain | |   |
+|W14 (12/06 - ) | Blockchain | |   |
 |||||
