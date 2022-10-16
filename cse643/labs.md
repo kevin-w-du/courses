@@ -22,8 +22,8 @@ about 10 labs for the entire semester.
 | Lab 04: [Set-UID Lab](https://seedsecuritylabs.org/Labs_20.04/Software/Environment_Variable_and_SetUID/) | Tue 10/11 23:59 | 5 | Tasks 5 - 9 only
 | Lab 05: [Race Condition Lab](https://seedsecuritylabs.org/Labs_20.04/Software/Race_Condition/) | Tue 10/18 23:59 | 5 |
 | Lab 06: [Spectre Attack Lab](https://seedsecuritylabs.org/Labs_20.04/System/Spectre_Attack/) | Friday 10/21 23:59 | 3 |
-| Lab 07: [Buffer Overflow Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Software/Buffer_Overflow/) | Friday 10/28 23:59 | 5 |
-| Total Points |   | 32 |
+| Lab 07: [Buffer Overflow Lab (Server version)](https://seedsecuritylabs.org/Labs_20.04/Software/Buffer_Overflow_Server/) | Friday 10/28 23:59 | 6 |
+| Total Points |   | 33 |
 |  |   ||
 
 ## Notes
