@@ -23,7 +23,8 @@ about 10 labs for the entire semester.
 | Lab 05: [Race Condition Lab](https://seedsecuritylabs.org/Labs_20.04/Software/Race_Condition/) | Tue 10/18 23:59 | 5 |
 | Lab 06: [Spectre Attack Lab](https://seedsecuritylabs.org/Labs_20.04/System/Spectre_Attack/) | Friday 10/21 23:59 | 3 |
 | Lab 07: [Buffer Overflow Lab (Server version)](https://seedsecuritylabs.org/Labs_20.04/Software/Buffer_Overflow_Server/) | Friday 10/28 23:59 | 6 |
-| Total Points |   | 33 |
+| Lab 08: [Return-to-Libc Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Software/Return_to_Libc/) | Tuesday 11/08 23:59 | 5 |
+| Total Points |   | 38 |
 |  |   ||
 
 ## Notes
