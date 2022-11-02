@@ -13,9 +13,9 @@
 |W07 (10/11 - ) | Race Condition, Meltdown/Spectre  | Chapter 7,17,18 | [Race Condition Lab](./labs.md) |
 |W08 (10/18 - ) | Review, Buffer Overflow | Chapter 4 | |
 |W09 (10/25 - ) | Quiz 2 (software security), Buffer Overflow | Chapter 4 | [Buffer Overflow Lab](./labs.md) |
-|W10 (11/01 - ) | Network basics | Chapter 19 | |
-|W11 (11/08 - ) | Quiz 3 (buffer overflow), Sniffing & Spoofing | Chapter 19 | |
+|W10 (11/01 - ) | Network basics, Sniffing & Spoofing | Chapter 19 | |
+|W11 (11/08 - ) | Quiz 3 (buffer overflow), MAC and IP Layer | -- | |
 |W12 (11/15 - ) | TCP and Attacks on TCP | Chapter 20 | |
 |W13 (11/29 - ) | DNS and Attacks on DNS | Chapter 23 | |
-|W14 (12/06 - ) | TBA | | |
+|W14 (12/06 - ) | BGP and Attacks on BGP | | |
 

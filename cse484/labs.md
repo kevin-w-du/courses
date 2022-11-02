@@ -21,6 +21,7 @@ about 10 labs for the entire semester.
 | Lab 04: [Set-UID Lab](https://seedsecuritylabs.org/Labs_20.04/Software/Environment_Variable_and_SetUID/) | Tue 10/11 23:59 | 5 | Tasks 5,6,8,9 only 
 | Lab 05: [Race Condition Lab](https://seedsecuritylabs.org/Labs_20.04/Software/Race_Condition/) | Thu 10/20 23:59 | 5 | 
 | Lab 06: [Buffer Overflow Lab (Server version)](https://seedsecuritylabs.org/Labs_20.04/Software/Buffer_Overflow_Server/) | Thu 11/03 23:59 | 6 | Tasks 1,2,3,6 only 
+| Lab 07: [Sniffing & Spoofing Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/Sniffing_Spoofing/) | Fri 11/11 23:59 | 6 | Task Set 1 only 
 | Total Points |   | 30 |
 |  |   ||
 
