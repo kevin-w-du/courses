@@ -22,7 +22,7 @@ about 10 labs for the entire semester.
 | Lab 05: [Race Condition Lab](https://seedsecuritylabs.org/Labs_20.04/Software/Race_Condition/) | Thu 10/20 23:59 | 5 | 
 | Lab 06: [Buffer Overflow Lab (Server version)](https://seedsecuritylabs.org/Labs_20.04/Software/Buffer_Overflow_Server/) | Thu 11/03 23:59 | 6 | Tasks 1,2,3,6 only 
 | Lab 07: [Sniffing & Spoofing Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/Sniffing_Spoofing/) | Thu 11/17 23:59 | 6 | Task Set 1 only 
-| Lab 08: [TCP Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/TCP_Attacks/) | Fri 12/02 23:59 | 8 | 
+| Lab 08: [TCP Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/TCP_Attacks/) | Fri 12/13 23:59 | 8 | 
 | Total Points |   | 42 |
 |  |   ||
 

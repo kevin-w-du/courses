@@ -14,8 +14,8 @@
 |W08 (10/18 - ) | Review, Buffer Overflow | Chapter 4 | |
 |W09 (10/25 - ) | Quiz 2 (software security), Buffer Overflow | Chapter 4 | [Buffer Overflow Lab](./labs.md) |
 |W10 (11/01 - ) | Network basics, Sniffing & Spoofing | Chapter 19 | |
-|W11 (11/08 - ) | Quiz 3 (buffer overflow), MAC and IP Layer | -- | |
-|W12 (11/15 - ) | TCP and Attacks on TCP | Chapter 20 | |
-|W13 (11/29 - ) | DNS and Attacks on DNS | Chapter 23 | |
-|W14 (12/06 - ) | BGP and Attacks on BGP | | |
+|W11 (11/08 - ) | Quiz 3 (buffer overflow), MAC | -- | |
+|W12 (11/15 - ) | IP and ICMP Protocol | -- | |
+|W13 (11/29 - ) | TCP and Attacks | Chapter 20 | |
+|W14 (12/06 - ) | Quiz 4 (network security), Review | | |
 
