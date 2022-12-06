@@ -17,5 +17,5 @@
 |W11 (11/08 - ) | Blockchain: Crypto Foundation      | |   |
 |W12 (11/15 - ) | Blockchain Network    | |   |
 |W13 (11/29 - ) | Transaction, Block, Consensus Protocols   | |   |
-|W14 (12/06 - ) | Smart Contract & Review  | |   |
+|W14 (12/06 - ) | Smart Contract & Reentrancy Attack | |   |
 |||||

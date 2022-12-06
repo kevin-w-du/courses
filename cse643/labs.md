@@ -24,6 +24,9 @@ about 10 labs for the entire semester.
 | Lab 06: [Spectre Attack Lab](https://seedsecuritylabs.org/Labs_20.04/System/Spectre_Attack/) | Friday 10/21 23:59 | 3 |
 | Lab 07: [Buffer Overflow Lab (Server version)](https://seedsecuritylabs.org/Labs_20.04/Software/Buffer_Overflow_Server/) | Friday 10/28 23:59 | 6 |
 | Lab 08: [Return-to-Libc Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Software/Return_to_Libc/) | Tuesday 11/08 23:59 | 5 |
+| Lab 09: Blockchain Lab 1 (in-class)  | | 2 |
+| Lab 10: Blockchain Lab 2 (see slides) | Tuesday 12/06 23:59 | 5 |
+| Lab 11: [Reentrancy Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Blockchain/Reentrancy_Attack/) | Tuesday 12/13 23:59 | 5 |
 | Total Points |   | 38 |
 |  |   ||
 
