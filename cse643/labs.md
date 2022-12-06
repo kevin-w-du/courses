@@ -27,7 +27,7 @@ about 10 labs for the entire semester.
 | Lab 09: Blockchain Lab 1 (in-class)  | | 2 |
 | Lab 10: Blockchain Lab 2 (see slides) | Tuesday 12/06 23:59 | 5 |
 | Lab 11: [Reentrancy Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Blockchain/Reentrancy_Attack/) | Tuesday 12/13 23:59 | 5 |
-| Total Points |   | 38 |
+| Total Points |   | 50 |
 |  |   ||
 
 ## Notes
