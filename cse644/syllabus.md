@@ -26,24 +26,35 @@ Wenliang Du. [Internet Security: A Hands-on Approach, 3rd Edition](https://www.h
 ## Grading (subject to change)
 
  - Quizzes and Exams: Total 50%
+   - Quizzes (bi-weekly, 10 - 20 minutes): 20%
+   - Final Exam Part 1: 10%  (April 27, in class)
+   - Final Exam Part 2: 20%  (May 05, 10:15AM - 12:15PM, Link 105)
+
  - Labs: 50%
    - Late Homework Policy: 10% penalty per business day.
 
 
 ## Topics
 
-- Introduction and Overview
+- Introduction and Network Security Basics
   - Internet Architecture
   - How the Internet works (high-level overview)
   - IP Address
+  - Packet sniffing and spoofing
 
 - TCP/IP Protocols, Vulnerabilities, Attacks, and Countermeasures
-  - Physical Layer: jamming attacks
   - Data Link Layer: ARP protocol and ARP cache poisoning
-  - Network Layer: IP protocols, packet sniffering, IP Spoofing, IP fragmentation attacks
-  - Network Layer: ICMP protocol and ICMP misbehaviors
-  - Network Layer: IP Routing protocols and Attacks
-  - Transport Layer: TCP protocol, TCP session hijacking, reset and SYN flooding attacks
+
+  - Network Layer:
+      - IP protocols, IP fragmentation attacks
+      - ICMP protocol and ICMP misbehaviors
+      - IP routing protocols and Attacks
+
+  - Transport Layer: 
+      - TCP protocol 
+      - TCP SYN flooding, reset, and session hijacking attacks
+      - Mitnick attack
+
   - DNS protocol, Kaminsky attack, DNS rebinding attack, and DNSSEC
   - BGP protocol and Attacks
   - DoS and DDoS attacks
