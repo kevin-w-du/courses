@@ -55,16 +55,24 @@ Wenliang Du. [Internet Security: A Hands-on Approach, 3rd Edition](https://www.h
       - TCP SYN flooding, reset, and session hijacking attacks
       - Mitnick attack
 
-  - DNS protocol, Kaminsky attack, DNS rebinding attack, and DNSSEC
-  - BGP protocol and Attacks
-  - DoS and DDoS attacks
-  - Internet worms
+  - Domain Name System (DNS): 
+      - DNS protocol
+      - Local DNS attack, the Kaminsky (remote) attack, DNS rebinding attack
+      - DNSSEC
+
+  - Border Gateway Protocol (BGP) and Attacks
+
 
 - Network Security Mechanisms
-  - IP Tunneling and SSH Tunneling
-  - Virtual Private Networks
-  - Firewalls
-  - Bypassing firewalls
+
+  - IP tunneling and SSH tunneling
+  - Virtual Private Networks (VPN)
+  - Firewalls and Firewall evasion 
   - Public Key Infrastructure (PKI)
   - Transport Layer Security (TLS/SSL)
+  - Darknet (Tor)
+
+- Other Network Attacks
+  - Internet worms
+  - Ransomware
 
