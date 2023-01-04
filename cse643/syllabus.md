@@ -39,21 +39,18 @@ Wenliang Du. [Computer Security: A Hands-on Approach, 3rd Edition](https://www.h
    - Cross-Site Scripting Attack
    - Cross-Site Request Forgery Attack
    - SQL-Injection Attack
-   - Click-Jacking Attack
 
  - Software Security 
    - Unix Security Basics
    - Privileged programs (Set-UID programs) and vulnerabilities
    - Buffer Overflow vulnerability and attack
-   - Return-to-libc attack
-   - Format-string vulnerability and attack
    - Race Condition vulnerability and attack
    - Meltdown and Spectre attack (hardware vulnerability)
-   - Shellshock attack
+   - Shellcode 
 
- - Blockchain, Cryptocurrency, and Smart Contract
-   - Cryptography foundation: a brief tutorial
-   - Bitcoin
-   - Ethereum
+ - Blockchain and Smart Contract
+   - Cryptography foundation
+   - Ethereum networks, transactions, and blocks
+   - Consensus protocols: PoW, PoA, and PoS
    - Smart contract, vulnerabilities, and attacks
 
