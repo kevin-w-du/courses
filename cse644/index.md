@@ -26,15 +26,13 @@ apply those principles to solve real problems.
 ## Instructor
   - Kevin Du (email: wedu@syr.edu)
   - Office hours:
-      - Tue: 21:00 - 22:00 (Zoom)
-      - Thu: 21:00 - 22:00 (Zoom)
-      - Zoom link is on Blackboard
+      - Tue: 14:00 - 15:00 
+      - Thu: 21:00 - 22:00 
   - Office: CST4-285
 
 ## TA
-  - Hao Tian (email: htian101@syr.edu)
+  - TBA (email: @syr.edu)
   - Office hours:
-      - Monday to Thursday: 20:00 - 21:00 (Zoom)
-      - Zoom link is on Blackboard
+      - TBA
 
 

@@ -16,16 +16,16 @@ about 10 labs for the entire semester.
 
 | Labs   | Due Date | Points-G | Points-U | Notes |
 | ---    | ---      | ---      | ---      | ---   |
-| Lab 01: [Sniffing/Spoofing Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/Sniffing_Spoofing/) | Tue 2/8 (23:59) | 4 | 4 | Set 2 is optional (2 bonus points)
-| Lab 02: [ARP Cache Poisoning Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/ARP_Attack) | Tue 2/15 (23:59) | 4 | 4 |
-| Lab 03: [ICMP Redirect Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/ICMP_Redirect/) | Tue 2/22 (23:59) | 4 | 4 |
-| Lab 04: [TCP Attacks Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/TCP_Attacks/) | Tue 3/01 (23:59) | 5 | 5 |
-| Lab 05: [VPN Tunneling Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/VPN_Tunnel/) | Fri 3/11 (23:59) | 6 | 6 | 
-| Lab 06: [Firewall Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/Firewall/) | Fri 3/25 (23:59) | 5 | 5 |
-| Lab 07: [Local DNS Attacks Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/DNS/DNS_Local/)  | Tue 4/05 (23:59) | 4 | 6 | 
-| Lab 08: [Kaminsky Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/DNS/DNS_Remote/) | Fri 4/08 (23:59) | 4 | - | not required for undergrads
-| Lab 09: [Secret Key Encryption Lab](https://seedsecuritylabs.org/Labs_20.04/Crypto/Crypto_Encryption/) | Fri 4/22 (23:59) | 5 | 6  | Tasks 2, 3, 4, 6 only
-| Lab 10: [PKI Lab](https://seedsecuritylabs.org/Labs_20.04/Crypto/Crypto_PKI/) | Tue 5/3 (23:59) | 5 |  6 |
+| Lab 01: [Sniffing/Spoofing Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/Sniffing_Spoofing/) | Sun 1/29 (23:59) | 4 | 4 | Set 2 is optional (2 bonus points)
+| Lab 02: [ARP Cache Poisoning Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/ARP_Attack) |   | 4 | 4 |
+| Lab 03: [ICMP Redirect Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/ICMP_Redirect/) |   | 4 | 4 |
+| Lab 04: [TCP Attacks Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/TCP_Attacks/) |  | 5 | 5 |
+| Lab 05: [VPN Tunneling Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/VPN_Tunnel/) |  | 6 | 6 | 
+| Lab 06: [Firewall Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/Firewall/) |  | 5 | 5 |
+| Lab 07: [Local DNS Attacks Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/DNS/DNS_Local/)  | | 4 | 6 | 
+| Lab 08: [Kaminsky Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/DNS/DNS_Remote/) | | 4 | - | not required for undergrads
+| Lab 09: [BGP Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/BGP/BGP_Exploration_Attack/) | | 5 | 6  | 
+| Lab 10: [Morris Worm Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/Morris_Worm/) | | 5 |  6 |
 | Total Points |   | 50 | 50  | 
 |  |   |||
 

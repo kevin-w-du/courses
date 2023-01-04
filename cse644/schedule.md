@@ -4,17 +4,18 @@
 
 | Week         | Topics | Readings  |  Lab |  
 | ---          | ---    | --- | --- |
-|W01 (01/24 - ) | Introduction + Network Security Basics| Handout | Environment Setup |
-|W02 (01/31 - ) | Packet Sniffing & Spoofing | Chapter 15 | [Sniffing-Spoofing Lab](./labs.md) |
-|W03 (02/07 - ) | ARP and IP | -- | [ ARP Attack Lab](./labs.md) |
-|W04 (02/14 - ) | UDP and TCP | Chapter 16 | [ICMP Redirect Attack Lab](./labs.md) |
-|W05 (02/21 - ) | TCP | Chapter 16 | [TCP Attack Lab](./labs.md) |
-|W06 (02/28 - ) | VPN | Chapter 19 | [VPN Tunneling Lab](./labs.md) |
-|W07 (03/07 - ) | Firewall | Chapter 17 | [Firewall Lab](./labs.md) |
-|W08 (03/21 - ) | DNS | Chapter 18 | [DNS Attack Labs](./labs.md) |
-|W09 (03/28 - ) | DNS | Chapter 18 | [DNS Attack Labs](./labs.md) |
-|W10 (04/04 - ) | BGP | [Book chapter](https://seedsecuritylabs.org/Labs_20.04/Networking/BGP/BGP_Exploration_Attack/BGP_Du.pdf)| - |
-|W11 (04/11 - ) | Encryption   | Chapter 21 | [Encryption Lab](./labs.md) |
-|W12 (04/18 - ) | Public Key Infrastructure | Chapter 23 | [PKI Lab](./labs.md) |
-|W13 (04/25 - ) | One-way Hash | Chapter 22 | no lab |
+|W01 (01/16 - ) | Introduction + Network Security Basics| Handout | Environment Setup |
+|W02 (01/23 - ) | Packet Sniffing & Spoofing | Chapter 1 | [Sniffing-Spoofing Lab](./labs.md) |
+|W03 (01/30 - ) | ARP | Chapter 2 | [ARP Attack Lab](./labs.md) |
+|W04 (02/06 - ) | IP & UDP  | Chapter 3, 5 | [ICMP Redirect Attack Lab](./labs.md) |
+|W05 (02/13 - ) | TCP | Chapter 6 | [TCP Attack Lab](./labs.md) |
+|W06 (02/20 - ) | VPN | Chapter 8 | [VPN Tunneling Lab](./labs.md) |
+|W07 (02/27 - ) | Firewall | Chapter 7, 9 | [Firewall Lab](./labs.md) |
+|W08 (03/06 - ) | DNS | Chapter 10 | [DNS Attack Labs](./labs.md) |
+|W09 (03/20 - ) | DNSSEC | Chapter 11 | |
+|W10 (03/27 - ) | BGP | Chapter 12 | [BGP Attack Lab](./labs.md) |
+|W11 (04/03 - ) | Internet Worm | [Morris Worm Lab](./labs.md) | |
+|W12 (04/10 - ) | PKI | [PKI Lab](./labs.md) | |
+|W13 (04/17 - ) | | | |
+|W13 (04/24 - ) | Review | | |
 |||||

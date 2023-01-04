@@ -20,7 +20,7 @@ apply those principles to solve real problems.
 
 ## Required Textbook
 
-Wenliang Du. [Computer & Internet Security: A Hands-on Approach, 2nd Edition](https://www.handsonsecurity.net/).
+Wenliang Du. [Internet Security: A Hands-on Approach, 3rd Edition](https://www.handsonsecurity.net/).
 
 
 ## Grading (subject to change)
@@ -44,26 +44,16 @@ Wenliang Du. [Computer & Internet Security: A Hands-on Approach, 2nd Edition](ht
   - Network Layer: ICMP protocol and ICMP misbehaviors
   - Network Layer: IP Routing protocols and Attacks
   - Transport Layer: TCP protocol, TCP session hijacking, reset and SYN flooding attacks
-  - DoS and DDoS attacks
-  - DNS protocol, attacks, and DNSSEC
+  - DNS protocol, Kaminsky attack, DNS rebinding attack, and DNSSEC
   - BGP protocol and Attacks
-
-- Cryptography Basics and Applications
-  - Secret-Key Encryption, DES, AES
-  - One-way Hash Functions, MD5, SHA-1, and SHA-2
-  - Length extension attacks, Collision attacks
-  - Diffie-Hellman Key Exchange
-  - Public-Key Encryption, RSA
-  - Digital Signatures
-  - Public-Key Infrastructure (PKI)
-  - Blockchains and Bitcoins
-  - Case Studies: common mistakes
+  - DoS and DDoS attacks
+  - Internet worms
 
 - Network Security Mechanisms
   - IP Tunneling and SSH Tunneling
   - Virtual Private Networks
   - Firewalls
   - Bypassing firewalls
+  - Public Key Infrastructure (PKI)
   - Transport Layer Security (TLS/SSL)
-  - TLS Programming
 
