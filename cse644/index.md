@@ -32,6 +32,7 @@ apply those principles to solve real problems.
   - Office hours:
       - Tue: 14:00 - 15:00 
       - Thu: 11:00 - 12:00 
+      - Or by appointment
   - Office: CST4-285
 
 ## TA
