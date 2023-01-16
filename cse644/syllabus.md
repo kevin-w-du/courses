@@ -25,12 +25,13 @@ Wenliang Du. [Internet Security: A Hands-on Approach, 3rd Edition](https://www.h
 
 ## Grading (subject to change)
 
- - Quizzes and Exams: Total 50%
-   - Quizzes (bi-weekly, 10 - 20 minutes): 20%
-   - Final Exam Part 1: 10%  (April 27, in class)
-   - Final Exam Part 2: 20%  (May 05, 10:15AM - 12:15PM, Link 105)
+ - Quizzes and Exams: Total 40%
+   - Final Exam Part 1: 15%  (April 27, in class)
+   - Final Exam Part 2: 25%  (May 05, 10:15AM - 12:15PM, Link 105)
 
- - Labs: 50%
+ - Labs: 60%
+   - Lab reports
+   - Lab quizzes (open book, but no computer access) 
    - Late Homework Policy: 10% penalty per business day.
 
 

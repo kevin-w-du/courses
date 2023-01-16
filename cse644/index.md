@@ -22,17 +22,19 @@ apply those principles to solve real problems.
   - Tuesday/Thursday: 12:30 - 1:50
   - Location: Link Hall 105
 
+  - Lab (for CSE 488 students only)
+    - Mandatory 
+    - Friday: 10:35 - 11:30 
+    - Location: CST 3-212
 
 ## Instructor
   - Kevin Du (email: wedu@syr.edu)
   - Office hours:
       - Tue: 14:00 - 15:00 
-      - Thu: 21:00 - 22:00 
+      - Thu: 11:00 - 12:00 
   - Office: CST4-285
 
 ## TA
-  - TBA (email: @syr.edu)
-  - Office hours:
-      - TBA
-
+  - Weixiang Wang (email: wwang69@syr.edu)
+  - Office hours: TBA
 
