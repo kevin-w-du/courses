@@ -37,5 +37,10 @@ apply those principles to solve real problems.
 
 ## TA
   - Weixiang Wang (email: wwang69@syr.edu)
-  - Office hours: TBA
+  - Office hours:
+      - Mon: 15:00 - 1600 (Location TBA)
+      - Tue: 20:00 - 21:00 (Zoom link on Slack/Blackboard)
+      - Wed: 15:00 - 16:00 (Location TBA)
+      - Thu: 20:00 - 21:00 (Zoom link on Slack/Blackboard)
+
 
