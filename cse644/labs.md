@@ -10,14 +10,17 @@ the lab environment. Note: we will use Ubuntu 20.04 VM.
 
 ## Labs
 
-Lab assignment will be added to here on the weekly basis. We are expected to have 
-about 10 labs for the entire semester. 
+The grading for each lab will be based either on the lab report or on the quiz.
+If quiz is used, you do not need to submit the 
+report for that lab. The quizzes will be based on the labs, so if you don't 
+spend enough time on the lab, you will be unlikely to get a good grade on
+the quiz.
 
 
 | Labs   | Due Date | Points-G | Points-U | Notes |
 | ---    | ---      | ---      | ---      | ---   |
-| Lab 01: [Sniffing/Spoofing Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/Sniffing_Spoofing/) | Sun 1/29 (23:59) | 4 | 4 | Set 2 is optional (2 bonus points)
-| Lab 02: [ARP Cache Poisoning Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/ARP_Attack) | Quiz (Tue 2/7)  | 4 | 4 |
+| Lab 01: [Sniffing/Spoofing Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/Sniffing_Spoofing/) | Sun 1/29 (Report) | 4 | 4 | Set 2 is optional (2 bonus points)
+| Lab 02: [ARP Cache Poisoning Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/ARP_Attack) | Tue 2/7 (Quiz)   | 4 | 4 |
 | Lab 03: [ICMP Redirect Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/ICMP_Redirect/) |   | 4 | 4 |
 | Lab 04: [TCP Attacks Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/TCP_Attacks/) |  | 5 | 5 |
 | Lab 05: [VPN Tunneling Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/VPN_Tunnel/) |  | 6 | 6 | 
