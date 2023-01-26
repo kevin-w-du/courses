@@ -5,7 +5,7 @@
 | Week         | Topics | Readings  |  Lab |  
 | ---          | ---    | --- | --- |
 |W01 (01/16 - ) | Network Security Basics    | Chapter 1 | Environment Setup |
-|W02 (01/23 - ) | Packet Sniffing & Spoofing | Chapter 1 | [Sniffing-Spoofing Lab](./labs.md) |
+|W02 (01/23 - ) | Packet Sniffing/Spoofing, MAC/ARP | Chapter 1, 2 | [Sniffing-Spoofing Lab](./labs.md) |
 |W03 (01/30 - ) | ARP       | Chapter 2 | [ARP Attack Lab](./labs.md) |
 |W04 (02/06 - ) | IP & UDP  | Chapter 3, 5 | [ICMP Redirect Attack Lab](./labs.md) |
 |W05 (02/13 - ) | TCP | Chapter 6 | [TCP Attack Lab](./labs.md) |
