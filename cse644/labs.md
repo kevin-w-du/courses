@@ -21,14 +21,14 @@ the quiz.
 | ---    | ---      | ---      | ---      | ---   |
 | Lab 01: [Sniffing/Spoofing Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/Sniffing_Spoofing/) | Sun 01/29: Report only | 4 | 4 | Set 2 is optional (2 bonus points)
 | Lab 02: [ARP Cache Poisoning Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/ARP_Attack) | Tue 02/07: Quiz only   | 4 | 4 |
-| Lab 03: [ICMP Redirect Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/ICMP_Redirect/) | Tue 02/14: Report only  | 4 | 4 |
-| Lab 04: [TCP Attacks Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/TCP_Attacks/) | Thu 2/23: Report + Quiz | 6 | 6 |
-| Lab 05: [VPN Tunneling Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/VPN_Tunnel/) | Tue 3/7: Report + Quiz | 6 | 6 | 
-| Lab 06: [Firewall Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/Firewall/) | Report only | 5 | 5 |
+| Lab 03: [ICMP Redirect Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/ICMP_Redirect/) | Tue 02/14: Report only  | 6 | 6 |
+| Lab 04: [TCP Attacks Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/TCP_Attacks/) | Thu 2/23: Report + Quiz | 8 | 8 |
+| Lab 05: [VPN Tunneling Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/VPN_Tunnel/) | Tue 3/7: Report + Quiz | 8 | 8 | 
+| Lab 06: [Firewall Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/Firewall/) | Report only | 6 | 6 |
 | Lab 07: [Local DNS Attacks Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/DNS/DNS_Local/)  | Report + Quiz | 4 | 6 | 
 | Lab 08: [Kaminsky Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/DNS/DNS_Remote/) | Report + Quiz | 4 | 6 | 
-| Lab 09: [BGP Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/BGP/BGP_Exploration_Attack/) | Report + Quiz | 5 | 6  | 
-| Lab 10: [Morris Worm Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/Morris_Worm/) | Report + Quiz | 5 |  6 |
+| Lab 09: [BGP Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/BGP/BGP_Exploration_Attack/) | Report + Quiz | 8 | 8  | 
+| Lab 10: [Morris Worm Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/Morris_Worm/) | Report + Quiz | 8 |  8 |
 | Total Points |   | 60 | 60  | 
 |  |   |||
 
