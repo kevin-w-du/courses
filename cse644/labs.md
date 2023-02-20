@@ -10,11 +10,16 @@ the lab environment. Note: we will use Ubuntu 20.04 VM.
 
 ## Labs
 
-The grading for each lab will be based either on the lab report or on the quiz.
-If quiz is used, you do not need to submit the 
-report for that lab. The quizzes will be based on the labs, so if you don't 
-spend enough time on the lab, you will be unlikely to get a good grade on
-the quiz.
+Students should submit a lab report for each lab. 
+For some labs, a short quiz (20 minutes) will be given on the due day. 
+If a quiz is taken, students should submit the quiz and lab report
+at the same time (both in hard-copy).
+The grading will be based on both report and quiz (with
+the quiz being the primary and the report being the secondary). 
+The quiz is open book, but access to computers or any type of 
+electronic devices is not allowed. The quiz will be based on the labs, 
+so if you don't spend enough time on the lab, you will be unlikely 
+to get a good grade on the quiz.
 
 
 | Labs   | Due Date | Points-G | Points-U | Notes |
