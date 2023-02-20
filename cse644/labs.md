@@ -19,7 +19,7 @@ the quiz.
 
 | Labs   | Due Date | Points-G | Points-U | Notes |
 | ---    | ---      | ---      | ---      | ---   |
-| Lab 01: [Sniffing/Spoofing Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/Sniffing_Spoofing/) | Sun 01/29: Report only | 4 | 4 | Set 2 is optional (2 bonus points)
+| Lab 01: [Sniffing/Spoofing Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/Sniffing_Spoofing/) | Sun 01/29: Report only | 4 | 4 | Set 2 is not required
 | Lab 02: [ARP Cache Poisoning Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/ARP_Attack) | Tue 02/07: Quiz only   | 4 | 4 |
 | Lab 03: [ICMP Redirect Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/ICMP_Redirect/) | Tue 02/14: Report only  | 6 | 6 |
 | Lab 04: [TCP Attacks Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/TCP_Attacks/) | Thu 2/23: Report + Quiz | 8 | 8 |
