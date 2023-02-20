@@ -45,6 +45,6 @@ to get a good grade on the quiz.
    Any violation will be punished and reported to the university authority.
 
  - Lab Report: The deadline for the submission is at 12:30pm on the due day (i.e.,
-   before the class start). If a quiz is taken, the report should be 
+   before the class starts). If a quiz is taken, the report should be 
    submitted at the end of the quiz. 
    We may ask selected students to give a demonstration.
