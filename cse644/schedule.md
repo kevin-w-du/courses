@@ -11,11 +11,10 @@
 |W05 (02/13 - ) | TCP | Chapter 6 | [TCP Attack Lab](./labs.md) |
 |W06 (02/20 - ) | UDP, VPN | Chapters 5, 8 |  |
 |W07 (02/27 - ) | VPN | Chapter 8 | [VPN Tunneling Lab](./labs.md) |
-|W07 (03/06 - ) | Firewall | Chapter 7, 9 | [Firewall Lab](./labs.md) |
-|W08 (03/20 - ) | DNS | Chapter 10 | [DNS Attack Labs](./labs.md) |
-|W10 (03/27 - ) | BGP      | Chapter 12 | [BGP Attack Lab](./labs.md) |
-|W11 (04/03 - ) | Internet Worm | -- | [Morris Worm Lab](./labs.md) | 
-|W12 (04/10 - ) | PKI | Chapter 18 | [PKI Lab](./labs.md) | 
-|W13 (04/17 - ) | | | |
-|W13 (04/24 - ) | Review | | |
+|W08 (03/06 - ) | VPN | Chapter 8 | |
+|W09 (03/20 - ) | Firewall | Chapter 7, 9 | [Firewall Lab](./labs.md) |
+|W10 (03/27 - ) | DNS | Chapter 10 | [DNS Attack Labs](./labs.md) |
+|W11 (04/03 - ) | BGP      | Chapter 12 | [BGP Attack Lab](./labs.md) |
+|W12 (04/10 - ) | Internet Worm | -- | [Morris Worm Lab](./labs.md) | 
+|W13 (04/24 - ) | PKI | Chapter 18 | [PKI Lab](./labs.md) | 
 |||||
