@@ -60,7 +60,6 @@ Wenliang Du. [Computer & Internet Security: A Hands-on Approach, 3rd Edition](ht
    - Ethereum 
    - Smart contract, vulnerabilities, and attacks
 
-
 ## Data collection statement
 
 As part of the regular ABET accreditation process for the undergraduate
