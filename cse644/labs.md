@@ -30,8 +30,8 @@ to get a good grade on the quiz.
 | Lab 04: [TCP Attacks Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/TCP_Attacks/) | Thu 2/23: Report + Quiz | 8 | 8 |
 | Lab 05: [VPN Tunneling Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/VPN_Tunnel/) | Tue 3/7: Report + Quiz | 8 | 8 | Remaining part due: 3/24.
 | Lab 06: [Firewall Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/Firewall/) | Fri 3/31: Report only | 6 | 6 |
-| Lab 07: [Local DNS Attacks Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/DNS/DNS_Local/)  | Report + Quiz | 4 | 4 | 
-| Lab 08: [Kaminsky Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/DNS/DNS_Remote/) | Report + Quiz | 4 | 4 | 
+| Lab 07: [Local DNS Attacks Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/DNS/DNS_Local/)  | Thu 4/13: Report + Quiz | 4 | 4 | 
+| Lab 08: [Kaminsky Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/DNS/DNS_Remote/) | Thu 4/13: Report + Quiz | 4 | 4 | 
 | Lab 09: [BGP Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/BGP/BGP_Exploration_Attack/) | Report + Quiz | 8 | 8  | 
 | Lab 10: [Morris Worm Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/Morris_Worm/) | Report + Quiz | 8 |  8 |
 | Total Points |   | 60 | 60  | 
