@@ -25,9 +25,8 @@ Wenliang Du. [Internet Security: A Hands-on Approach, 3rd Edition](https://www.h
 
 ## Grading (subject to change)
 
- - Quizzes and Exams: Total 40%
-   - Final Exam Part 1: 15%  (April 27, in class)
-   - Final Exam Part 2: 25%  (May 05, 10:15AM - 12:15PM, Link 105)
+ - Exams: Total 40%
+   - May 05, 10:15AM - 12:15PM, Link 105
 
  - Labs: 60%
    - Lab reports
