@@ -32,8 +32,8 @@ to get a good grade on the quiz.
 | Lab 06: [Firewall Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/Firewall/) | Fri 3/31: Report only | 6 | 6 |
 | Lab 07: [Local DNS Attacks Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/DNS/DNS_Local/)  | Thu 4/13: Report + Quiz | 4 | 4 | 
 | Lab 08: [Kaminsky Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/DNS/DNS_Remote/) | Thu 4/13: Report + Quiz | 4 | 4 | 
-| Lab 09: [BGP Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/BGP/BGP_Exploration_Attack/) | Report + Quiz | 8 | 8  | 
-| Lab 10: [Morris Worm Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/Morris_Worm/) | Report + Quiz | 8 |  8 |
+| Lab 09: [BGP Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/BGP/BGP_Exploration_Attack/) | Tue 4/25: Report + Quiz | 8 | 8  | Only Tasks 1, 4, and 5.
+| Lab 10: [Morris Worm Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/Morris_Worm/) | Optional | - |  - |
 | Total Points |   | 60 | 60  | 
 |  |   |||
 
