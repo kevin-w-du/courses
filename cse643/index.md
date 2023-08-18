@@ -12,12 +12,12 @@ students can enhance their understanding of the principles, and be able to
 apply those principles to solve real problems.
 
 ## Final Exam and Office Hours
-  - Friday 12/16/2022: 8:00AM - 10:00AM 
+  - Friday 12/19/2023: 10:15AM - 12:15PM
   - [Practice questions](https://www.handsonsecurity.net/resources.html)
 
 ## Class Time and Location
   - Tuesday/Thursday: 2:00Pm - 3:20PM
-  - Location: Hall of Language 115
+  - Location: Hall of Language 214
 
 
 ## Instructor
@@ -28,12 +28,11 @@ apply those principles to solve real problems.
       - Or make an appointment
 
 ## Teaching Assistants
-  - Spoorthi Somashekar (spsomash@syr.edu)
-  - Junle Liang (juliang@syr.edu)
+  - Aman Velani (apvelani@syr.edu)
   - Office hours: 
       - Mon: 20:00 - 21:00 (Zoom link on Slack/Blackboard)
-      - Wed: 16:00 - 17:00 (CST 0-123)
+      - Wed: 16:00 - 17:00 (CST ...)
       - Thu: 20:00 - 21:00 (Zoom link on Slack/Blackboard)
-      - Fri: 11:00 - 12:00 (CST 0-121)
+      - Fri: 11:00 - 12:00 (CST ...)
 
 

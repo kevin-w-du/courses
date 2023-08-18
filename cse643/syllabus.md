@@ -1,4 +1,4 @@
-# Syllabus: CSE 484
+# Syllabus: CSE 643
 
 [Home](./index.md) &nbsp;&nbsp;&nbsp; [Syllabus](./syllabus.md)  &nbsp;&nbsp;&nbsp; [Labs](./labs.md) &nbsp;&nbsp;&nbsp; [Schedule](./schedule.md)
 
@@ -23,9 +23,12 @@ Wenliang Du. [Computer Security: A Hands-on Approach, 3rd Edition](https://www.h
 
 ## Grading (subject to change)
 
- - Quizzes and Exams: Total 50%
- - Labs: 50%
- - Late Homework Policy: 10% penalty per business day.
+ - Labs: 60%
+   - Lab reports
+   - Lab quizzes (open book, but no computer access)
+   - Late Homework Policy: 10% penalty per business day. 
+
+ - Final Exams: Total 40%
 
 
 ## Topics

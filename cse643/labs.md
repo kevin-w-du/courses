@@ -27,7 +27,7 @@ about 10 labs for the entire semester.
 | Lab 09: Blockchain Lab 1 (in-class)  | | 2 |
 | Lab 10: Blockchain Lab 2 (see slides) | Tuesday 12/06 23:59 | 5 |
 | Lab 11: [Reentrancy Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Blockchain/Reentrancy_Attack/) | Tuesday 12/13 23:59 | 5 |
-| Total Points |   | 50 |
+| Total Points |   | 60 |
 |  |   ||
 
 ## Notes
@@ -37,6 +37,10 @@ about 10 labs for the entire semester.
    carry out the tasks in the labs. You cannot copy code from other students.
    Any violation will be punished and reported to the university authority.
 
- - Lab Report: For all labs, You should submit a hardcopy of your lab report
-   before the class on the due day. We may ask (randomly) selected students to
-   give a demonstration.
+ - Lab Report: You should submit a hardcopy of your lab report
+   on the due day, right after the quiz. The lab report will be checked only 
+   for the completeness, not for grading purpose. Your lab grade will be decided 
+   only by the quiz given on the due day. However, if your lab report is incomplete,
+   corresponding portions of grade will be deducted. 
+
+
