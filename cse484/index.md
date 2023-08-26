@@ -13,12 +13,12 @@ apply those principles to solve real problems.
 
 
 ## Final Exam and Office Hours 
-  - Friday 12/16/2022: 5:15PM - 7:15PM (CH020)
+  - Monday 12/18/2023, 3:00PM - 5:00PM (765 Irving Ave Room 220)
   - [Practice questions](https://www.handsonsecurity.net/resources.html) 
 
 ## Class Time and Location
   - Tuesday/Thursday: 3:30PM - 4:50PM
-  - Location: Crouse-Hinds Hall 020
+  - Location: 765 Irving Ave Room 220
 
 ## Instructor
   - Kevin Du (email: wedu@syr.edu)

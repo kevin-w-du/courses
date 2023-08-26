@@ -23,9 +23,12 @@ Wenliang Du. [Computer & Internet Security: A Hands-on Approach, 3rd Edition](ht
 
 ## Grading (subject to change)
 
- - Quizzes and Exams: 40%
- - Labs: 50%
- - Late Homework Policy: 10% penalty per business day.
+ - Final Exam: 30%
+
+ - Labs and Quizzes: 70%
+   - Lab reports
+   - Lab quizzes (open book, but no computer access)
+   - Late policy (lab reports only): 10% penalty per business day
 
 
 ## Topics
@@ -52,7 +55,6 @@ Wenliang Du. [Computer & Internet Security: A Hands-on Approach, 3rd Edition](ht
    - Network Security basics
    - Attacks at the TCP/IP protocols
    - DNS and attacks 
-   - BGP routing and attacks
 
  - Blockchain, Cryptocurrency, and Smart Contract 
    - Cryptography foundation: a brief tutorial
@@ -66,6 +68,6 @@ As part of the regular ABET accreditation process for the undergraduate
 programs in computer and electrical engineering, we will be collecting samples
 of students' work in each of our undergraduate classes.  As a result, some of
 your labs/homeworks/exams may be photocopied/scanned and saved to present to
-the ABET evaluators who visit next fall.
+the ABET evaluators.
 
 
