@@ -22,17 +22,15 @@ apply those principles to solve real problems.
 
 ## Instructor
   - Kevin Du (wedu@syr.edu)
-  - Office hours:
-      - Tue: 12:30 - 13:30 (CST 4-285)
-      - Thu: 21:00 - 22:00 (Zoom link on Slack/Blackboard)
+  - Office hours (CST 4-285):
+      - Tue: 12:30 - 13:30 
+      - Thu: 11:00 - 12:00 
       - Or make an appointment
 
 ## Teaching Assistants
   - Aman Velani (apvelani@syr.edu)
   - Office hours: 
       - Mon: 20:00 - 21:00 (Zoom link on Slack/Blackboard)
-      - Wed: 16:00 - 17:00 (CST ...)
+      - Wed: 13:00 - 15:00 (CST ...)
       - Thu: 20:00 - 21:00 (Zoom link on Slack/Blackboard)
-      - Fri: 11:00 - 12:00 (CST ...)
-
 

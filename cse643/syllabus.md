@@ -26,7 +26,7 @@ Wenliang Du. [Computer Security: A Hands-on Approach, 3rd Edition](https://www.h
  - Labs: 60%
    - Lab reports
    - Lab quizzes (open book, but no computer access)
-   - Late Homework Policy: 10% penalty per business day. 
+   - Late policy (lab reports only): 10% penalty per business day. 
 
  - Final Exams: Total 40%
 
