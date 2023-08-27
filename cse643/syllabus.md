@@ -23,12 +23,13 @@ Wenliang Du. [Computer Security: A Hands-on Approach, 3rd Edition](https://www.h
 
 ## Grading (subject to change)
 
- - Labs: 60%
+ - Labs: 70%
    - Lab reports
    - Lab quizzes (open book, but no computer access)
    - Late policy (lab reports only): 10% penalty per business day. 
 
- - Final Exams: Total 40%
+ - Final Exams: Total 30%
+   - Closed book
 
 
 ## Topics

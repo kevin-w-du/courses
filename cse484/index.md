@@ -13,7 +13,7 @@ apply those principles to solve real problems.
 
 
 ## Final Exam and Office Hours 
-  - Monday 12/18/2023, 3:00PM - 5:00PM (765 Irving Ave Room 220)
+  - Tuesday 12/12/2023: Class time (the last class)
   - [Practice questions](https://www.handsonsecurity.net/resources.html) 
 
 ## Class Time and Location

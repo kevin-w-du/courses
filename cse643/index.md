@@ -12,7 +12,7 @@ students can enhance their understanding of the principles, and be able to
 apply those principles to solve real problems.
 
 ## Final Exam and Office Hours
-  - Friday 12/19/2023: 10:15AM - 12:15PM
+  - Tuesday 12/12/2023: Class time (the last class)
   - [Practice questions](https://www.handsonsecurity.net/resources.html)
 
 ## Class Time and Location

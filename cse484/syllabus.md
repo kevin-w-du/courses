@@ -24,6 +24,7 @@ Wenliang Du. [Computer & Internet Security: A Hands-on Approach, 3rd Edition](ht
 ## Grading (subject to change)
 
  - Final Exam: 30%
+   - Closed book 
 
  - Labs and Quizzes: 70%
    - Lab reports

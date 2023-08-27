@@ -15,15 +15,16 @@ about 10 labs for the entire semester.
 
 | Labs   | Due Date | Points | Notes |
 | ---    | ---      | ---    | ---   |
-| Lab 01: [Cross-Site Request Forgery Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Web/Web_CSRF_Elgg/) | Tue 09/13 23:59 | 4 |
-| Lab 02: [Cross-Site Scripting Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Web/Web_XSS_Elgg/) | Thu 09/22 23:59 | 5 |
-| Lab 03: [SQL Injection Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Web/Web_SQL_Injection/) | Thu 09/29 23:59 | 5 |
-| Lab 04: [Set-UID Lab](https://seedsecuritylabs.org/Labs_20.04/Software/Environment_Variable_and_SetUID/) | Tue 10/11 23:59 | 5 | Tasks 5,6,8,9 only 
-| Lab 05: [Race Condition Lab](https://seedsecuritylabs.org/Labs_20.04/Software/Race_Condition/) | Thu 10/20 23:59 | 5 | 
-| Lab 06: [Buffer Overflow Lab (Server version)](https://seedsecuritylabs.org/Labs_20.04/Software/Buffer_Overflow_Server/) | Thu 11/03 23:59 | 6 | Tasks 1,2,3,6 only 
-| Lab 07: [Sniffing & Spoofing Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/Sniffing_Spoofing/) | Thu 11/17 23:59 | 6 | Task Set 1 only 
-| Lab 08: [TCP Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/TCP_Attacks/) | Tue 12/13 23:59 | 8 | 
-| Total Points |   | 42 |
+| Lab 01: [Cross-Site Request Forgery Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Web/Web_CSRF_Elgg/) | Mon 09/11 23:59 | 6 |
+| Lab 02: [Cross-Site Scripting Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Web/Web_XSS_Elgg/) |  |   |
+| Lab 03: [SQL Injection Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Web/Web_SQL_Injection/) |  |   |
+| Lab 04: [Set-UID Lab](https://seedsecuritylabs.org/Labs_20.04/Software/Environment_Variable_and_SetUID/) |  |   | Tasks 5,6,8,9 only 
+| Lab 05: [Race Condition Lab](https://seedsecuritylabs.org/Labs_20.04/Software/Race_Condition/) |  |   | 
+| Lab 06: [Buffer Overflow Lab (Server version)](https://seedsecuritylabs.org/Labs_20.04/Software/Buffer_Overflow_Server/) |  |   | Tasks 1,2,3,6 only 
+| Lab 07: [Sniffing & Spoofing Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/Sniffing_Spoofing/) |  |   | Task Set 1 only 
+| Lab 08: [TCP Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/TCP_Attacks/) |  |   | 
+| Lab 09: Blockchain Lab | |   | 
+| Total Points |   | 70 |
 |  |   ||
 
 ## Notes
@@ -33,6 +34,3 @@ about 10 labs for the entire semester.
    carry out the tasks in the labs. You cannot copy code from other students.
    Any violation will be punished and reported to the university authority.
 
- - Lab Report: For all labs, You should submit a hardcopy of your lab report
-   before the class on the due day. We may ask (randomly) selected students to
-   give a demonstration.
