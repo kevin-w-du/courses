@@ -31,8 +31,8 @@ apply those principles to solve real problems.
 
   - Weixiang Wang (email: wwang69@syr.edu)
   - Office hours:
-      - Tue: 20:00 - 21:00 (Zoom link on Slack/Blackboard) 
-      - Wed: 11:40 - 12:35 (Link 105)
-      - Thu: 20:00 - 21:00 (Zoom link on Slack/Blackboard) 
-      - Fri: 10:00 - 11:00 (CST 4-116)
-
+     - Mon: 11:00 - 12:00 (CST4-116)
+     - Tue: 14:00 - 15:00 (CST4-116)
+     - Wed: 11:00 - 12:00 (CST4-116)
+     - Thu: 14:00 - 15:00 (CST4-116)
+     - Fri: 20:00 - 21:00 (Zoom link on Slack and Blackboard)
