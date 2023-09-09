@@ -18,4 +18,5 @@
 |W12 (11/13 - ) | Blockchain Network    | |   |
 |W13 (11/27 - ) | Transaction, Block, Consensus Protocols   | |   |
 |W14 (12/04 - ) | Smart Contract & Reentrancy Attack | |   |
+|W15 (12/12 - ) | Final Exam (12/12) | |   |
 |||||

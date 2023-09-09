@@ -4,18 +4,20 @@
 
 | Week         | Topics | Readings  |  Lab |  
 | ---          | ---    | --- | --- |
-|W01 (08/30 - ) | Introduction & **Web Security** Basics | handout | Environment Setup |
-|W02 (09/06 - ) | CSRF Attack     | Chapter 10 | [CSRF Lab](./labs.md) | 
-|W03 (09/13 - ) | XSS Attack      | Chapter 11 | [XSS Lab](./labs.md) | 
-|W04 (09/20 - ) | SQL Injection   | Chapter 12 | [SQL Injection Lab](./labs.md) |
-|W05 (09/27 - ) | Set-UID | Chapters 1-3 | |
-|W06 (10/04 - ) | Quiz 1 (web security), Set-UID |  | [Set-UID Lab](./labs.md) |
-|W07 (10/11 - ) | Race Condition, Meltdown/Spectre  | Chapter 7,17,18 | [Race Condition Lab](./labs.md) |
-|W08 (10/18 - ) | Review, Buffer Overflow | Chapter 4 | |
-|W09 (10/25 - ) | Quiz 2 (software security), Buffer Overflow | Chapter 4 | [Buffer Overflow Lab](./labs.md) |
-|W10 (11/01 - ) | Network basics, Sniffing & Spoofing | Chapter 19 | [Sniffing and Spoofing Attack Lab](./labs.md) |
-|W11 (11/08 - ) | Quiz 3 (buffer overflow), MAC | -- | |
-|W12 (11/15 - ) | IP and ICMP Protocol | -- | |
-|W13 (11/29 - ) | TCP and Attacks | Chapter 20 | [TCP Attack Lab](./labs.md) |
-|W14 (12/06 - ) | Quiz 4 (network security) and Review | | |
+|W01 (08/28 - ) | Introduction & Web Security Basics | Chapter 11 | Environment Setup |
+|W02 (09/04 - ) | CSRF Attack     | Chapter 12 | [CSRF Lab](./labs.md) | 
+|W03 (09/11 - ) | XSS Attack      | Chapter 13 | [XSS Lab](./labs.md) | 
+|W04 (09/17 - ) | ---   | | |
+|W05 (09/25 - ) | SQL Injection   | Chapter 14 | [SQL Injection Lab](./labs.md) |
+|W06 (10/02 - ) | Linux Security Basics and Set-UID | Chapters 1-3 | [Set-UID Lab](./labs.md) |
+|W07 (10/09 - ) | Race Condition, Meltdown/Spectre  | Chapter 7,17,18 | [Race Condition Lab](./labs.md) |
+|W08 (10/16 - ) | Buffer Overflow | Chapter 4 | |
+|W09 (10/23 - ) | Buffer Overflow | Chapter 4 | [Buffer Overflow Lab](./labs.md) |
+|W10 (10/30 - ) | Network basics, Sniffing & Spoofing | Chapter 19 | [Sniffing and Spoofing Attack Lab](./labs.md) |
+|W11 (11/06 - ) | TCP and Attacks | Chapter 20 | [TCP Attack Lab](./labs.md) |
+|W12 (11/13 - ) | BGP Routing and Attacks | [Reading](https://www.handsonsecurity.net/files/chapters/edition3/sample-bgp.pdf) | |
+|W13 (11/20 - ) | Thanksgiving Break | | |
+|W14 (11/27 - ) | | | |
+|W15 (12/04 - ) | | | |
+|W16 (12/12 - ) | Final Exam (12/12) | | |
 
