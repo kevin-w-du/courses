@@ -7,8 +7,8 @@
 |W01 (08/28 - ) | Introduction + Web Security Basics| Chapter 11 | Environment Setup | 
 |W02 (09/04 - ) | CSRF Attack | Chapter 12 | [CSRF Lab](./labs.md) | 
 |W03 (09/11 - ) | XSS Attack  | Chapter 13 | [XSS Lab](./labs.md) | 
-|W04 (09/18 - ) | SQL Injection  | Chapter 14 | [SQL Injection Lab](./labs.md) |
-|W05 (09/25 - ) | Linux Security Basics | Chapters 1 | |
+|W04 (09/25 - ) | SQL Injection  | Chapter 14 | [SQL Injection Lab](./labs.md) |
+|W04 (09/25 - ) | Linux Security Basics | Chapters 1 | |
 |W06 (10/02 - ) | Set-UID | Chapters 2-3 | [Set-UID Lab](./labs.md) |
 |W07 (10/09 - ) | Race Condition  | Chapter 7 | [Race Condition Lab](./labs.md) |
 |W08 (10/16 - ) | Buffer Overflow | Chapter 4 | [Buffer Overflow Lab](./labs.md) |
