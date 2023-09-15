@@ -15,10 +15,10 @@ about 10 labs for the entire semester.
 
 | Labs   | Due Date | Points | Notes |
 | ---    | ---      | ---    | ---   |
-| Lab 01: [Cross-Site Request Forgery Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Web/Web_CSRF_Elgg/) | Mon 09/11 23:59 | 6 |
-| Lab 02: [Cross-Site Scripting Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Web/Web_XSS_Elgg/) | Fri 09/22 23:59 | 6 |
-| Lab 03: [SQL Injection Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Web/Web_SQL_Injection/) | Fri 09/29 23:59 | 6 |
-| Lab 04: [Set-UID Lab](https://seedsecuritylabs.org/Labs_20.04/Software/Environment_Variable_and_SetUID/) |  |   | Tasks 5,6,8,9 only 
+| Lab 01: [Cross-Site Request Forgery Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Web/Web_CSRF_Elgg/) | Mon 09/11 23:59 | 6 | Grade is based on report
+| Lab 02: [Cross-Site Scripting Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Web/Web_XSS_Elgg/) | Fri 09/22 23:59 | 6 | Grade is based on report
+| Lab 03: [SQL Injection Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Web/Web_SQL_Injection/) | Fri 09/29 23:59 | 6 | Grade is based on report
+| Lab 04: [Set-UID Lab](https://seedsecuritylabs.org/Labs_20.04/Software/Environment_Variable_and_SetUID/) |  |   | Tasks 5,6,8,9 only (Quiz)  
 | Lab 05: [Race Condition Lab](https://seedsecuritylabs.org/Labs_20.04/Software/Race_Condition/) |  |   | 
 | Lab 06: [Buffer Overflow Lab (Server version)](https://seedsecuritylabs.org/Labs_20.04/Software/Buffer_Overflow_Server/) |  |   | Tasks 1,2,3,6 only 
 | Lab 07: [Sniffing & Spoofing Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/Sniffing_Spoofing/) |  |   | Task Set 1 only 
