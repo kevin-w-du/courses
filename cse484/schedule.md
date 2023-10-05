@@ -9,8 +9,9 @@
 |W03 (09/11 - ) | XSS Attack      | Chapter 13 | [XSS Lab](./labs.md) | 
 |W04 (09/18 - ) | SQL Injection   | Chapter 14 | [SQL Injection Lab](./labs.md) |
 |W05 (09/25 - ) | Linux Security Basics and Set-UID | Chapters 1-3 | [Set-UID Lab](./labs.md) |
-|W06 (10/02 - ) | Race Condition, Meltdown/Spectre  | Chapter 7,17,18 | [Race Condition Lab](./labs.md) |
-|W08 (10/16 - ) | Buffer Overflow | Chapter 4 | |
+|W06 (10/02 - ) | Set-UID | Chapters 2-3 | |
+|W07 (10/09 - ) | Race Condition | Chapter 7 | [Race Condition Lab](./labs.md) |
+|W08 (10/16 - ) | Meltdown/Spectre Attacks | Chapters 17-18 | |
 |W09 (10/23 - ) | Buffer Overflow | Chapter 4 | [Buffer Overflow Lab](./labs.md) |
 |W10 (10/30 - ) | Network basics, Sniffing & Spoofing | Chapter 19 | [Sniffing and Spoofing Attack Lab](./labs.md) |
 |W11 (11/06 - ) | TCP and Attacks | Chapter 20 | [TCP Attack Lab](./labs.md) |
