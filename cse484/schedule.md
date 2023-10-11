@@ -13,7 +13,7 @@
 |W07 (10/09 - ) | Race Condition | Chapter 7 | [Race Condition Lab](./labs.md) |
 |W08 (10/16 - ) | Meltdown/Spectre Attacks | Chapters 17-18 | |
 |W09 (10/23 - ) | Buffer Overflow | Chapter 4 | [Buffer Overflow Lab](./labs.md) |
-|W10 (10/30 - ) | Network basics, Sniffing & Spoofing | Chapter 19 | [Sniffing and Spoofing Attack Lab](./labs.md) |
+|W10 (10/30 - ) | Buffer Overflow, Network basics | Chapter 19 | [Sniffing and Spoofing Attack Lab](./labs.md) |
 |W11 (11/06 - ) | TCP and Attacks | Chapter 20 | [TCP Attack Lab](./labs.md) |
 |W12 (11/13 - ) | BGP Routing and Attacks | [Reading](https://www.handsonsecurity.net/files/chapters/edition3/sample-bgp.pdf) | |
 |W13 (11/20 - ) | Thanksgiving Break | | |
