@@ -20,12 +20,11 @@ about 10 labs for the entire semester.
 | Lab 02: [Cross-Site Scripting Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Web/Web_XSS_Elgg/) | Thu 09/21 (23:59) | 6 |
 | Lab 03: [SQL Injection Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Web/Web_SQL_Injection/) | Thu 09/28 (23:59) | 6 |
 | Lab 04: [Set-UID Lab](https://seedsecuritylabs.org/Labs_20.04/Software/Environment_Variable_and_SetUID/) | Wed 10/11 (23:59) | 6 | Tasks 5 - 9 only (Quiz)
-| Lab 05: [Race Condition Lab](https://seedsecuritylabs.org/Labs_20.04/Software/Race_Condition/) |  |   | 
-| Lab 06: [Spectre Attack Lab](https://seedsecuritylabs.org/Labs_20.04/System/Spectre_Attack/) |  |   | 
-| Lab 07: [Buffer Overflow Lab (Server version)](https://seedsecuritylabs.org/Labs_20.04/Software/Buffer_Overflow_Server/) |  |   | 
-| Lab 08: [Return-to-Libc Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Software/Return_to_Libc/) | |   |
-| Lab 09: Blockchain Lab 1  | |   |
-| Lab 10: Blockchain Lab 2  | |   |
+| Lab 05: [Race Condition Lab](https://seedsecuritylabs.org/Labs_20.04/Software/Race_Condition/) | Fri 10/20 (23:59)  | 6  | Quiz (on 10/24) 
+| Lab 06: [Buffer Overflow Lab (Server version)](https://seedsecuritylabs.org/Labs_20.04/Software/Buffer_Overflow_Server/) |  |   | 
+| Lab 07: [Return-to-Libc Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Software/Return_to_Libc/) | |   |
+| Lab 08: Blockchain Lab 1  | |   |
+| Lab 09: Blockchain Lab 2  | |   |
 | Lab 11: [Reentrancy Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Blockchain/Reentrancy_Attack/) | |   |
 | Total Points |   | 70 |
 |  |   ||

@@ -11,7 +11,7 @@
 |W05 (09/25 - ) | Linux Security Basics | Chapters 1 | |
 |W06 (10/02 - ) | Set-UID | Chapters 2-3 | [Set-UID Lab](./labs.md) |
 |W07 (10/09 - ) | Race Condition  | Chapter 7 | [Race Condition Lab](./labs.md) |
-|W08 (10/16 - ) | Meltdown/Spectre Attacks  | Chapters 17 - 18 | [Spectre Attack Lab](./labs.md) |
+|W08 (10/16 - ) | Meltdown/Spectre Attacks  | Chapters 17 - 18 |  |
 |W09 (10/23 - ) | Buffer Overflow | Chapter 4 | [Buffer Overflow Lab](./labs.md) |
 |W10 (10/30 - ) | Buffer Overflow | Chapter 4 | |
 |W11 (11/06 - ) | Return to libc  | Chapter 5 | [Return-to-libc Attack Lab](./labs.md) |
