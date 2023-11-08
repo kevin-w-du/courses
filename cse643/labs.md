@@ -22,7 +22,7 @@ about 10 labs for the entire semester.
 | Lab 04: [Set-UID Lab](https://seedsecuritylabs.org/Labs_20.04/Software/Environment_Variable_and_SetUID/) | Wed 10/11 (23:59) | 6 | Tasks 5 - 9 only (Quiz)
 | Lab 05: [Race Condition Lab](https://seedsecuritylabs.org/Labs_20.04/Software/Race_Condition/) | Fri 10/20 (23:59)  | 6  | Quiz (on 10/24) 
 | Lab 06: [Buffer Overflow Lab (Server version)](https://seedsecuritylabs.org/Labs_20.04/Software/Buffer_Overflow_Server/) | Mon 11/06 (23:59) | 10 | Exam (on 11/7)
-| Lab 07: [Return-to-Libc Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Software/Return_to_Libc/) | Mon 11/14 (23:59)| 6  | Tasks 1 - 4 only (Quiz)
+| Lab 07: [Return-to-Libc Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Software/Return_to_Libc/) | Mon 11/13 (23:59)| 6  | Tasks 1 - 4 only (Quiz)
 | Lab 08: Blockchain Lab 1  | |   |
 | Lab 09: Blockchain Lab 2  | |   |
 | Lab 11: [Reentrancy Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Blockchain/Reentrancy_Attack/) | |   |
