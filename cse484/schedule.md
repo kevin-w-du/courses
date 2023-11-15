@@ -13,11 +13,11 @@
 |W07 (10/09 - ) | Race Condition | Chapter 7 | [Race Condition Lab](./labs.md) |
 |W08 (10/16 - ) | Meltdown/Spectre Attacks | Chapters 17-18 | |
 |W09 (10/23 - ) | Buffer Overflow | Chapter 4 | [Buffer Overflow Lab](./labs.md) |
-|W10 (10/30 - ) | Buffer Overflow, Network basics | Chapter 19 | [Sniffing and Spoofing Attack Lab](./labs.md) |
-|W11 (11/06 - ) | TCP and Attacks | Chapter 20 | [TCP Attack Lab](./labs.md) |
-|W12 (11/13 - ) | BGP Routing and Attacks | [Reading](https://www.handsonsecurity.net/files/chapters/edition3/sample-bgp.pdf) | |
+|W10 (10/30 - ) | Buffer Overflow | | |
+|W11 (11/06 - ) | Network security basics | Chapter 19 | [Sniffing and Spoofing Attack Lab](./labs.md) |
+|W12 (11/13 - ) | TCP and Attacks | Chapter 20 | [TCP Attack Lab](./labs.md) |
 |W13 (11/20 - ) | Thanksgiving Break | | |
-|W14 (11/27 - ) | | | |
-|W15 (12/04 - ) | | | |
+|W14 (11/27 - ) | Blockchain: the basics | | |
+|W15 (12/04 - ) | Blockchain: smart contract  | | |
 |W16 (12/12 - ) | Final Exam (12/12) | | |
 
