@@ -23,7 +23,7 @@ about 10 labs for the entire semester.
 | Lab 06: [Buffer Overflow Lab (Server version)](https://seedsecuritylabs.org/Labs_20.04/Software/Buffer_Overflow_Server/) | Mon 11/06 23:59 | 10 | Tasks 1,2,3,6 only (Exam on 11/7)
 | Lab 07: [Sniffing & Spoofing Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/Sniffing_Spoofing/) | Thu 11/16 23:59 | 6  | Task Set 1 only 
 | Lab 08: [TCP Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/TCP_Attacks/) | Mon 12/04 23:59  | 8  | Quiz on 12/05
-| Lab 09: Blockchain Labs |  Optional  |   | 
+| Lab 09: [Blockchain Labs](https://seedsecuritylabs.org/Labs_20.04/Blockchain/Blockchain_Exploration/) |  Optional  |   | 
 | Total Points |   | 70 |
 |  |   ||
 
