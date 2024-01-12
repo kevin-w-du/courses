@@ -20,7 +20,7 @@ apply those principles to solve real problems.
 
 ## Class Time and Location
   - Tuesday/Thursday: 12:30 - 1:50
-  - Location: Link Hall 105
+  - Location: Link Hall 160
 
   - Lab (for CSE 488 students only)
     - Mandatory 

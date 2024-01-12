@@ -25,13 +25,15 @@ Wenliang Du. [Internet Security: A Hands-on Approach, 3rd Edition](https://www.h
 
 ## Grading (subject to change)
 
- - Exams: Total 40%
-   - May 05, 10:15AM - 12:15PM, Link 105
+ - Final Exam: 30%
+   - April 25, During the class time. 
+   - Closed book
 
- - Labs: 60%
+ - Labs: 70%
    - Lab reports
    - Lab quizzes (open book, but no computer access) 
-   - Late Homework Policy: 10% penalty per business day.
+   - Late policy (lab reports only): 10% penalty per business day.
+
 
 
 ## Topics
