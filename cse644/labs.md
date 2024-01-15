@@ -22,7 +22,7 @@ to get a good grade on the quiz.
 
 | Labs   | Due Date | Points-G | Points-U | Notes |
 | ---    | ---      | ---      | ---      | ---   |
-| Lab 01: [Sniffing/Spoofing Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/Sniffing_Spoofing/) | Report + Quiz | 5 | 5 | Set 2 is not required
+| Lab 01: [Sniffing/Spoofing Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/Sniffing_Spoofing/) | Report + Quiz: 1/30 | 5 | 5 | Set 2 is not required
 | Lab 02: [ARP Cache Poisoning Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/ARP_Attack) | Report + Quiz  | 5 | 5 |
 | Lab 03: [ICMP Redirect Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/ICMP_Redirect/) |  | 6 | 6 |
 | Lab 04: [TCP Attacks Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/TCP_Attacks/) | Report + Quiz | 10 | 10 |
