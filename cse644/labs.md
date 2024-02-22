@@ -26,7 +26,7 @@ to get a good grade on the quiz.
 | Lab 02: [ARP Cache Poisoning Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/ARP_Attack) | Report + Quiz: 2/6 | 5 | 5 |
 | Lab 03: [ICMP Redirect Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/ICMP_Redirect/) | Report only (2/15) | 6 | 6 |
 | Lab 04: [TCP Attacks Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/TCP_Attacks/) | Report + Quiz  (2/27) | 10 | 10 |
-| Lab 05: [VPN Tunneling Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/VPN_Tunnel/) | Report + Quiz | 10 | 10 | 
+| Lab 05: [VPN Tunneling Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/VPN_Tunnel/) | Report + Quiz (3/5) | 10 | 10 | 
 | Lab 06: [Firewall Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/Firewall/) | Report only | 6 | 6 |
 | Lab 07: [Local DNS Attacks Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/DNS/DNS_Local/)  | Report + Quiz | 5 | 5 | 
 | Lab 08: [Kaminsky Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/DNS/DNS_Remote/) | Report + Quiz | 5 | 5 | 
